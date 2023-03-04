@@ -28,33 +28,27 @@ Background
 
 Recent Publications
 ======
-<div style="font-size:8px;background-color:rgba(141, 212, 232, 0.2); text-align:left; vertical-align: middle; padding:10px 0;">
-<li>Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines
-Ziyue Pan, Wenbo Shen, Xingkai Wang, Yutian Yang, Rui Chang, Yao Liu, Chengwei Liu, Yang Liu, Kui Ren
+<div style="font-size:16px;background-color:rgba(141, 212, 232, 0.2); text-align:left; vertical-align: middle; padding:10px 0;">
+<li>Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines<br>
+Ziyue Pan, Wenbo Shen, Xingkai Wang, Yutian Yang, Rui Chang, Yao Liu, Chengwei Liu, Yang Liu, Kui Ren<br>
 Transactions on Dependable and Secure Computing (TDSC)
 </li>
 </div>
 
-<div style="font-size:10px;background-color:rgba(141, 212, 232, 0.2); text-align:left; vertical-align: middle; padding:10px 0;">
-<li>Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines
-Ziyue Pan, Wenbo Shen, Xingkai Wang, Yutian Yang, Rui Chang, Yao Liu, Chengwei Liu, Yang Liu, Kui Ren
+<div style="font-size:18px;background-color:rgba(141, 212, 232, 0.2); text-align:left; vertical-align: middle; padding:10px 0;">
+<li>Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines<br>
+Ziyue Pan, Wenbo Shen, Xingkai Wang, Yutian Yang, Rui Chang, Yao Liu, Chengwei Liu, Yang Liu, Kui Ren<br>
 Transactions on Dependable and Secure Computing (TDSC)
 </li>
 </div>
 
-<div style="font-size:12px;background-color:rgba(141, 212, 232, 0.2); text-align:left; vertical-align: middle; padding:10px 0;">
-<li>Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines
-Ziyue Pan, Wenbo Shen, Xingkai Wang, Yutian Yang, Rui Chang, Yao Liu, Chengwei Liu, Yang Liu, Kui Ren
+<div style="font-size:20px;background-color:rgba(141, 212, 232, 0.2); text-align:left; vertical-align: middle; padding:10px 0;">
+<li>Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines<br>
+Ziyue Pan, Wenbo Shen, Xingkai Wang, Yutian Yang, Rui Chang, Yao Liu, Chengwei Liu, Yang Liu, Kui Ren<br>
 Transactions on Dependable and Secure Computing (TDSC)
 </li>
 </div>
 
-<div style="font-size:14px;background-color:rgba(141, 212, 232, 0.2); text-align:left; vertical-align: middle; padding:10px 0;">
-<li>Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines
-Ziyue Pan, Wenbo Shen, Xingkai Wang, Yutian Yang, Rui Chang, Yao Liu, Chengwei Liu, Yang Liu, Kui Ren
-Transactions on Dependable and Secure Computing (TDSC)
-</li>
-</div>
 
 
 Awards
