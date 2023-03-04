@@ -9,20 +9,18 @@ redirect_from:
 ---
 
 Dr. Wenbo Shen is a ZJU100 Young Professor at Zhejiang University. 
-His research interests are software and system security, including operating system security, software supply chain security, container security, and program analysis. He has published more than 30 research papers at top-tier academic conferences and won three distinguished paper awards (NDSS 16, AsiaCCS 17, ACSAC 22). His research studies on Linux kernel protection have been deployed on hundreds of millions of devices.
-
+His research interests are software and system security, including operating system security, software supply chain security, container security, and program analysis. He has published more than 30 research papers at top-tier academic conferences and won three distinguished paper awards (NDSS 16, AsiaCCS 17, ACSAC 22).
 
 Before joining Zhejiang University, he spent about four years at Samsung Research America in Silicon Valley (Mountain View, California, USA) as a Senior Research Scientist and the Tech Lead of Linux kernel protection. He has designed, implemented, and commercialized multiple kernel security features, including Linux kernel page table protection, control flow protection, and critical data protection.
 
 Dr. Wenbo Shen got his Ph.D. in 2015 from the [Computer Science Department](https://www.csc.ncsu.edu/) of [North Carolina State University](https://www.ncsu.edu/), co-advised by [Dr. Peng Ning](http://discovery.csc.ncsu.edu/) and [Dr. Huaiyu Dai](https://www.ece.ncsu.edu/people/hdai/). He earned his bachelor's degree in Software Engineering in 2010 from [Harbin Institute of Technology](http://www.hit.edu.cn/), advised by [Dr. Weizhe Zhang](http://homepage.hit.edu.cn/wzzhang).
 
-**Dr. Shen's research team always looks for postdoc, Ph.D., master, or undergraduate students. If you like "moving fast and breaking things," don't hesitate to contact me at shenwenbo AT zju.edu.cn.**
-
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Background
+------
+* 2019 -  Now, Zhejiang University (Hangzhou, China), College of Computer Science and Technology, Assistant Professor
+* 2015 - 2019, Samsung Research America (Silicon Vally, USA), Senior Research Scientist and the Tech Lead
+* 2010 - 2015, North Carolina State University (Raleigh, NC, USA), Department of Computer Science, Ph.D
+* 2006 - 2010, Harbin Institute of Technology (Harbin, China), School of Software Engineering, B.Eng
 
 Getting started
 ======
