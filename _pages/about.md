@@ -10,18 +10,21 @@ redirect_from:
 ---
 
 Dr. Wenbo Shen is a ZJU100 Young Professor at Zhejiang University. 
-His research interests are software and system security, including operating system security, software supply chain security, container security, and program analysis. He has published more than 30 research papers at top-tier academic conferences and won three distinguished paper awards (NDSS 16, AsiaCCS 17, ACSAC 22).
+His research interests are software and system security, including operating system security, software supply chain security, container security, and program analysis. He has published more than 30 research papers at top-tier academic conferences and won three distinguished paper awards (NDSS 16, AsiaCCS 17, ACSAC 22). His research studies on Linux kernel protection have been deployed on hundreds of millions of devices.
 
-Before joining Zhejiang University, he spent about four years at Samsung Research America in Silicon Valley (Mountain View, California, USA) as a Senior Research Scientist and the Tech Lead of Linux kernel protection. He has designed, implemented, and commercialized multiple kernel security features, including Linux kernel page table protection, control flow protection, and critical data protection.
 
-Dr. Wenbo Shen got his Ph.D. in 2015 from the [Computer Science Department](https://www.csc.ncsu.edu/) of [North Carolina State University](https://www.ncsu.edu/), co-advised by [Dr. Peng Ning](http://discovery.csc.ncsu.edu/) and [Dr. Huaiyu Dai](https://www.ece.ncsu.edu/people/hdai/). He earned his bachelor's degree in Software Engineering in 2010 from [Harbin Institute of Technology](http://www.hit.edu.cn/), advised by [Dr. Weizhe Zhang](http://homepage.hit.edu.cn/wzzhang).
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:left; vertical-align: middle; padding:100px 0;">
 
 Background
-------
-* 2019 -  Now, Zhejiang University (Hangzhou, China), College of Computer Science and Technology, Assistant Professor
-* 2015 - 2019, Samsung Research America (Silicon Vally, USA), Senior Research Scientist and the Tech Lead
-* 2010 - 2015, North Carolina State University (Raleigh, NC, USA), Department of Computer Science, Ph.D
-* 2006 - 2010, Harbin Institute of Technology (Harbin, China), School of Software Engineering, B.Eng
+=====
+* 2019 -  Now, Zhejiang University (China), College of Computer Science and Technology, Assistant Professor
+* 2015 - 2019, Samsung Research America (USA), Senior Research Scientist and the Tech Lead
+* 2010 - 2015, North Carolina State University (USA), Department of Computer Science, Ph.D
+* 2006 - 2010, Harbin Institute of Technology (China), School of Software Engineering, B.Eng  
+
+</div>
+
+
 
 Getting started
 ======
