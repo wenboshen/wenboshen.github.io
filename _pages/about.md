@@ -3,6 +3,7 @@ permalink: /
 title: "Short Intro"
 excerpt: "About me"
 author_profile: true
+classes: wide
 redirect_from: 
   - /about/
   - /about.html
