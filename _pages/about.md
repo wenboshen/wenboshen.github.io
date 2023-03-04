@@ -25,12 +25,12 @@ Background
 </div>
 
 <br>
+
 Recent Publications
 ======
-<div style="background-color:rgba(141, 212, 232, 0.5); text-align:left; vertical-align: middle; padding:10px 0;">
-<li>
-mbush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines<br>
-Ziyue Pan, Wenbo Shen, Xingkai Wang, Yutian Yang, Rui Chang, Yao Liu, Chengwei Liu, Yang Liu, Kui Ren<br>
+<div style="background-color:rgba(0, 0, 0, 0.05); text-align:left; vertical-align: middle; padding:10px 0;">
+<li><h5>Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines</h5><br>
+<h5>Ziyue Pan, Wenbo Shen, Xingkai Wang, Yutian Yang, Rui Chang, Yao Liu, Chengwei Liu, Yang Liu, Kui Ren</h5><br>
 Transactions on Dependable and Secure Computing (TDSC)<br>
 </li>
 
