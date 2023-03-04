@@ -29,21 +29,43 @@ Background
 Recent Publications
 ======
 <div style="font-size:16px;background-color:rgba(141, 212, 232, 0.2); text-align:left; vertical-align: middle; padding:10px 0;">
-<li>Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines<br>
-Ziyue Pan, Wenbo Shen, Xingkai Wang, Yutian Yang, Rui Chang, Yao Liu, Chengwei Liu, Yang Liu, Kui Ren<br>
+  
+<li><b>Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines</b><br>
+Ziyue Pan, <b>Wenbo Shen</b>, Xingkai Wang, Yutian Yang, Rui Chang, Yao Liu, Chengwei Liu, Yang Liu, Kui Ren<br>
 Transactions on Dependable and Secure Computing (TDSC)
 </li>
-</div>
 
-* VDom: Fast and Unlimited Virtual Domains on Multiple Architectures  
-Ziqi Yuan, Siyu Hong, Rui Chang, Yajin Zhou, Wenbo Shen, Kui Ren  
+<li><b>Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding</b><br>
+Jietao Xiao, Nanzi Yang,Wenbo Shen, Jinku Li, Xin Guo, Zhiqiang Dong, Fei Xie, Jianfeng Ma<br>
+USENIX Security 23
+</li>
+  
+<li><b>VDom: Fast and Unlimited Virtual Domains on Multiple Architectures</b><br>
+Ziqi Yuan, Siyu Hong, Rui Chang, Yajin Zhou, Wenbo Shen, Kui Ren<br>
 ASPLOS 23
+</li>
 
-<div style="font-size:20px;background-color:rgba(141, 212, 232, 0.2); text-align:left; vertical-align: middle; padding:10px 0;">
-<li>Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines<br>
-Ziyue Pan, Wenbo Shen, Xingkai Wang, Yutian Yang, Rui Chang, Yao Liu, Chengwei Liu, Yang Liu, Kui Ren<br>
+<li><b>面向Java语言生态的软件供应链安全分析技术</b><br>
+毛天宇，王星宇，常瑞，申文博，任奎<br>
+软件学报 23
+</li>
+  
+<li><b>Making Memory Account Accountable: Analyzing and Detecting Memory Missing-account bugs for Container Platforms</b><br>
+Yutian Yang, Wenbo Shen, Xun Xie, Kangjie Lu, Mingsen Wang, Tianyu Zhou, Chenggang Qin, Wang Yu, Kui Ren<br>
+ACSAC 22
+</li>
+  
+<li><b>Automatic Permission Check Analysis for Linux Kernel</b><br>
+Jinmeng Zhou, Tong Zhang, Wenbo Shen, Dongyoon Lee, Changhee Jung, Ahmed Azab, Ruowen Wang, Peng Ning, Kui Ren<br>
 Transactions on Dependable and Secure Computing (TDSC)
 </li>
+
+<li><b>RegVault: Hardware Assisted Selective Data Randomization for Operating System Kernels</b><br>
+Jinyan Xu, Haoran Lin, Ziqi Yuan, Wenbo Shen, Yajin Zhou, Rui Chang, Lei Wu, Kui Ren<br>
+Design Automation Conference (DAC 2022) 
+</li>
+  
+  
 </div>
 
 
