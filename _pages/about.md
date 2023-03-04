@@ -31,13 +31,15 @@ Recent Publications
 <div style="font-size:16px;background-color:rgba(141, 212, 232, 0.2); text-align:left; vertical-align: middle; padding:10px 0;">
   
 <li><b>Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines</b><br>
-Ziyue Pan, <b>Wenbo Shen</b>, Xingkai Wang, Yutian Yang, Rui Chang, Yao Liu, Chengwei Liu, Yang Liu, Kui Ren<br>
-Transactions on Dependable and Secure Computing (TDSC)
+   Ziyue Pan, <b>Wenbo Shen</b>, Xingkai Wang, Yutian Yang, Rui Chang, Yao Liu, Chengwei Liu, Yang Liu, Kui Ren<br>
+   Transactions on Dependable and Secure Computing (TDSC)
 </li>
 
+<br>
+
 <li><b>Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding</b><br>
-Jietao Xiao, Nanzi Yang,Wenbo Shen, Jinku Li, Xin Guo, Zhiqiang Dong, Fei Xie, Jianfeng Ma<br>
-USENIX Security 23
+   Jietao Xiao, Nanzi Yang,Wenbo Shen, Jinku Li, Xin Guo, Zhiqiang Dong, Fei Xie, Jianfeng Ma<br>
+   USENIX Security 23
 </li>
   
 <li><b>VDom: Fast and Unlimited Virtual Domains on Multiple Architectures</b><br>
