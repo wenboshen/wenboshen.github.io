@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Short Intro"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Dr. Wenbo Shen is a ZJU100 Young Professor at Zhejiang University. 
+His research interests are software and system security, including operating system security, software supply chain security, container security, and program analysis. He has published more than 30 research papers at top-tier academic conferences and won three distinguished paper awards (NDSS 16, AsiaCCS 17, ACSAC 22). His research studies on Linux kernel protection have been deployed on hundreds of millions of devices.
+
+
+Before joining Zhejiang University, he spent about four years at Samsung Research America in Silicon Valley (Mountain View, California, USA) as a Senior Research Scientist and the Tech Lead of Linux kernel protection. He has designed, implemented, and commercialized multiple kernel security features, including Linux kernel page table protection, control flow protection, and critical data protection.
+
+Dr. Wenbo Shen got his Ph.D. in 2015 from the [Computer Science Department](https://www.csc.ncsu.edu/) of [North Carolina State University](https://www.ncsu.edu/), co-advised by [Dr. Peng Ning](http://discovery.csc.ncsu.edu/) and [Dr. Huaiyu Dai](https://www.ece.ncsu.edu/people/hdai/). He earned his bachelor's degree in Software Engineering in 2010 from [Harbin Institute of Technology](http://www.hit.edu.cn/), advised by [Dr. Weizhe Zhang](http://homepage.hit.edu.cn/wzzhang).
+
+**Dr. Shen's research team always looks for postdoc, Ph.D., master, or undergraduate students. If you like "moving fast and breaking things," don't hesitate to contact me at shenwenbo AT zju.edu.cn.**
 
 A data-driven personal website
 ======
