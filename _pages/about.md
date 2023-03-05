@@ -60,7 +60,7 @@ Ziqi Yuan, Siyu Hong, Rui Chang, Yajin Zhou, <b>Wenbo Shen</b>, Kui Ren<br>
   
 <li><b>Making Memory Account Accountable: Analyzing and Detecting Memory Missing-account bugs for Container Platforms</b><br>
 Yutian Yang, <b>Wenbo Shen</b>, Xun Xie, Kangjie Lu, Mingsen Wang, Tianyu Zhou, Chenggang Qin, Wang Yu, Kui Ren<br>
-In Proceedings of the 38th Annual Computer Security Applications Conference (ACSAC), pp. 869-880. 2022.
+In Proceedings of Annual Computer Security Applications Conference (ACSAC), pp. 869-880. 2022.
 </li>
   
 <br>
@@ -85,10 +85,13 @@ In Proceedings of the 59th ACM/IEEE Design Automation Conference (DAC), pp. 715-
 Awards
 ======
 <div style="background-color:rgba(141, 212, 232, 0.6); text-align:left; vertical-align: middle; padding:10px 0;">
-<li>2019 -  Now, Zhejiang University (China), College of Computer Science and Technology, Assistant Professor</li>
-<li>2015 - 2019, Samsung Research America (USA), Senior Research Scientist and Tech Lead</li>
-<li>2010 - 2015, North Carolina State University (USA), Department of Computer Science, Ph.D</li>
-<li>2006 - 2010, Harbin Institute of Technology (China), School of Software Engineering, B.Eng</li>
+<li>教育部-华为“智能基座”优秀教师，2022</li>
+<li>Distinguished Paper Award by Annual Computer Security Applications Conference (ACSAC), 2022</li>
+<li>全国大学生计算机系统能力大赛 优秀指导教师奖，2022</li>
+<li>全国大学生信息安全竞赛一作品赛 优秀指导教师奖，2022</li>
+<li>蚂蚁学术合作优秀项目，2021</li>
+<li>Distinguished Paper Award by ACM Asia Conference on Computer and Communications Security (ASIACCS), ACM SIGSAC, 2017.</li>
+<li>Distinguished Paper Award by Network and Distributed System Security Symposium (NDSS), 2016.</li>
 </div>
 
 
