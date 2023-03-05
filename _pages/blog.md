@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "Blog Posts"
-permalink: /blog/
-author_profile: true
+permalink: /
+author_profile: false
 ---
 
 * Jun 29, 2021	[Fuchsia Inside](posts/2021-06-29-fuchsia.md)
