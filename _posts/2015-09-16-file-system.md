@@ -7,7 +7,8 @@ description: ""
 category: 
 tags: []
 ---
-
+* TOC
+{:toc}
 
 ### Data structures
 * [`file`](https://elixir.bootlin.com/linux/v3.4/source/include/linux/fs.h#L976) a file struct represents a physical file's context, different processes, or even the same process can open one file multiple times, therefore has multiple file struct.
