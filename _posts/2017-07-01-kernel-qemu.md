@@ -1,6 +1,7 @@
 ---
-layout: post
 title: "Compile (GCC and Clang) and QEMU Linux Kernel"
+collection: posts
+permalink: /posts/2017-07-01-kernel-qemu
 date: 2017-07-01
 description: ""
 category: 
