@@ -1,6 +1,7 @@
 ---
-layout: post
 title: "AArch64 Kernel Page Tables"
+collection: posts
+permalink: /posts/2018-09-09-page-table
 date: 2018-09-09
 description: ""
 category: 

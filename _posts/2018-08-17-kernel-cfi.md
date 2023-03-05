@@ -1,6 +1,7 @@
 ---
-layout: post
 title: "Kernel Forward Control Flow Integrity based on Clang"
+collection: posts
+permalink: /posts/2018-08-17-kernel-cfi
 date: 2018-08-17
 description: ""
 category: 

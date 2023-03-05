@@ -1,6 +1,7 @@
 ---
-layout: post
 title: "Gvisor inside"
+collection: posts
+permalink: /posts/2018-12-25-gvisor-inside
 date: 2018-12-25
 description: ""
 category: 

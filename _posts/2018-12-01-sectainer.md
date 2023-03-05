@@ -1,6 +1,7 @@
 ---
-layout: post
 title: "runc, gvisor, and kata container"
+collection: posts
+permalink: /posts/2018-12-01-sectainer
 date: 2018-12-01
 description: ""
 category: 
