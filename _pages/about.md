@@ -76,11 +76,9 @@ Transactions on Dependable and Secure Computing (TDSC). 2022
 Jinyan Xu, Haoran Lin, Ziqi Yuan, <b>Wenbo Shen</b>, Yajin Zhou, Rui Chang, Lei Wu, Kui Ren<br>
 In Proceedings of the 59th ACM/IEEE Design Automation Conference (DAC), pp. 715-720. 2022.
 </li>
-  
-  
 </div>
 
-
+<br>
 
 Awards
 ======
