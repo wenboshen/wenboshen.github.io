@@ -32,7 +32,7 @@ Recent Publications
   
 <li><b>Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines</b><br>
    Ziyue Pan, <b>Wenbo Shen</b>, Xingkai Wang, Yutian Yang, Rui Chang, Yao Liu, Chengwei Liu, Yang Liu, Kui Ren<br>
-   Transactions on Dependable and Secure Computing (TDSC)
+   Transactions on Dependable and Secure Computing (TDSC). 2023
 </li>
 
 <br>
@@ -47,13 +47,6 @@ Recent Publications
 <li><b>VDom: Fast and Unlimited Virtual Domains on Multiple Architectures</b><br>
 Ziqi Yuan, Siyu Hong, Rui Chang, Yajin Zhou, <b>Wenbo Shen</b>, Kui Ren<br>
  In Architectural Support for Programming Languages and Operating Systems (ASPLOS). 2023.
-</li>
-  
-<br>
-
-<li><b>面向Java语言生态的软件供应链安全分析技术</b><br>
-毛天宇，王星宇，常瑞，申文博，任奎<br>
-软件学报 23
 </li>
   
 <br>
@@ -83,11 +76,7 @@ In Proceedings of the 59th ACM/IEEE Design Automation Conference (DAC), pp. 715-
 Awards
 ======
 <div style="background-color:rgba(141, 212, 232, 0.2); text-align:left; vertical-align: middle; padding:10px 0;">
-<li>教育部-华为“智能基座”优秀教师，2022</li>
 <li>Distinguished Paper Award by Annual Computer Security Applications Conference (ACSAC), 2022</li>
-<li>全国大学生计算机系统能力大赛 优秀指导教师奖，2022</li>
-<li>全国大学生信息安全竞赛一作品赛 优秀指导教师奖，2022</li>
-<li>蚂蚁学术合作优秀项目，2021</li>
 <li>Distinguished Paper Award by ACM Asia Conference on Computer and Communications Security (ASIACCS), ACM SIGSAC, 2017.</li>
 <li>Distinguished Paper Award by Network and Distributed System Security Symposium (NDSS), 2016.</li>
 </div>
