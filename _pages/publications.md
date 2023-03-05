@@ -52,7 +52,8 @@ Kui Ren
  
 
 
-#### 2021
+2021
+=====
    * Security Challenges in the Container Cloud  
    Yutian Yang, **Wenbo Shen**, Bonan Ruan, Wenmao Liu, Kui Ren  
    IEEE TPS 21 [[PDF]](papers/TPS21.pdf)
@@ -72,7 +73,7 @@ Kui Ren
    Brian Belleville, Wenbo Shen, Stijn Volckaert, Ahmed M. Azab, and Michael Franz  
    In the Transactions on Dependable and Secure Computing (TDSC) [[PDF]](papers/kald.pdf)
 
-#### 2020
+2020 and before
    * ARM Pointer Authentication based Forward-Edge and Backward-Edge Control Flow Integrity for Kernels  
     Yutian Yang, Songbo Zhu, **Wenbo Shen**, Yajin Zhou, Jiadong Sun, Kui Ren  
     In arxiv [[PDF](https://arxiv.org/abs/1912.10666)]
@@ -82,8 +83,6 @@ Kui Ren
    * PESC: A Per System-Call Stack Canary Design for Linux Kernel  
     Jiadong Sun, Xia  Zhou, **Wenbo Shen**, Yajin Zhou, Kui Ren  
     In CODASPY 20 [[PDF]](papers/PESC.pdf)
-
-#### 2019
 
    * PeX: A Permission Check Analysis Framework for Linux Kernel  
    Tong Zhang, **Wenbo Shen**, Dongyoon Lee, Changhee Jung, Ahmed Azab, Ruowen Wang  
@@ -95,7 +94,6 @@ Kui Ren
    Jinsong Han, Feng Lin, Wenbo Shen, Kui Ren  
    In SocialSens@CPSIoTWeek
 
-#### 2017
    * Norax: Enabling Execute-Only Memory for COTS Binaries on AArch64  
    Yaohui Chen, Dongli Zhang, Ruowen Wang, Rui Qiao, Ahmed M. Azab, Long Lu, Hayawardh Vijayakumar, **Wenbo Shen**  
    In the IEEE Symposium on Security and Privacy (S&P'17), 2017 [[PDF]](papers/norax-oakland18.pdf)
@@ -104,7 +102,6 @@ Kui Ren
    Ruowen Wang, Ahmed M. Azab, William Enck, Ninghui Li, Peng Ning, Xun Chen, **Wenbo Shen**, Yueqiang Cheng  
    ACM Asia Conference on Computer and Communications Security (ASIACCS) 2017 [[PDF]](https://www.enck.org/pubs/wang-asiaccs17.pdf) [**Distinguished Paper Award**](http://asiaccs2017.com/program/distinguished-papers/)
 
-#### 2016
    * SKEE: A lightweight Secure Kernel-level Execution Environment for ARM  
    Ahmed Azab, Kirk Swidowski, Rohan Bhutkar, Jia Ma, **Wenbo Shen**, Ruowen Wang and Peng Ning  
    Network and Distributed System Security Symposium (NDSS), 2016 [[PDF]](papers/skee-ndss16.pdf) [**Distinguished Paper Award**](https://www.internetsociety.org/blog/2016/02/ndss-2016-grants-distinguished-papers-awards/)
@@ -117,12 +114,10 @@ Kui Ren
    Song Fang, Yao Liu, **Wenbo Shen**, Haojin Zhu, and Tao Wang  
    IEEE Transactions on Mobile Computing (TMC), 2017 [[PDF]](http://www.csee.usf.edu/~yliu21/webresources/?n=pdf/Virtual-Song-TMC.pdf)
 
-#### 2015
    * No Time to Demodulate: Fast Physical Layer Verification of Friendly Jamming  
    **Wenbo Shen**, Yao Liu, Xiaofan He, Huaiyu Dai, and Peng Ning  
    International conference for military communications (MILCOM) 2015, [[PDF]](http://www.csee.usf.edu/~yliu21/webresources/?n=pdf/Friendly%20Jamming-published.pdf)
 
-#### 2014
    * Hypervision Across Worlds: Real-time Kernel Protection from the ARM TrustZone Secure World  
    Ahmed Azab, Peng Ning, Jitesh Shah, Quan Chen, Rohan Bhutkar, Guruprasad Ganesh, Jia Ma, **Wenbo Shen**  
    In ACM Conference on Computer and Communications Security (CCS), 2014 [[PDF]](papers/tz-rkp-ccs14.pdf)
@@ -143,15 +138,13 @@ Kui Ren
    Song Fang, Yao Liu, **Wenbo Shen**, and Haojin Zhu  
    In Annual International Conference on Mobile Computing and Networking (MobiCom'14), 2014, [[PDF]](http://www.csee.usf.edu/~yliu21/webresources/?n=pdf/com078-Fang.pdf)
 
-#### 2013
-   * Ally Friendly Jamming: How to Jam Your Enemy and Maintain Your Own Wireless Connectivity at the Same Time  
-   **Wenbo Shen**, Peng Ning, Xiaofan He, and Huaiyu Dai  
-   In the IEEE Symposium on Security and Privacy (S&P '13), San Francisco, CA, 2013 [[PDF]](https://people.engr.ncsu.edu/hdai/Oakland13.pdf)
-
    * Is Link Signature Dependable for Wireless Security?  
    Xiaofan He, Huaiyu Dai, **Wenbo Shen**, and Peng Ning  
    In IEEE International Conference on Computer Communications (INFOCOM) Mini-Conference, 2013 [[PDF]](http://www4.ncsu.edu/~hdai/Infocom13-mini-XH.pdf)
 
+   * Ally Friendly Jamming: How to Jam Your Enemy and Maintain Your Own Wireless Connectivity at the Same Time  
+   **Wenbo Shen**, Peng Ning, Xiaofan He, and Huaiyu Dai  
+   In the IEEE Symposium on Security and Privacy (S&P '13), San Francisco, CA, 2013 [[PDF]](https://people.engr.ncsu.edu/hdai/Oakland13.pdf)
 
 ## Patents
    * Method and apparatus for protecting kernel control-flow integrity using static binary instrumentation, US 2017/0140148, 2017 [[PDF]](https://patents.google.com/patent/US20170140148A1/en)
