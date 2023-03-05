@@ -1,6 +1,7 @@
 ---
-layout: post
 title: "Linux Secondary Core Bootup on AArch64"
+collection: posts
+permalink: /posts/2016-12-21-secondary-bootup
 date: 2016-12-21
 description: ""
 category: 

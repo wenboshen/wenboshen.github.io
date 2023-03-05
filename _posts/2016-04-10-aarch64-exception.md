@@ -1,6 +1,7 @@
 ---
-layout: post
 title: "AArch64 Exception Handling"
+collection: posts
+permalink: /posts/2016-04-10-aarch64-exception
 date: 2016-04-10
 description: ""
 category: 

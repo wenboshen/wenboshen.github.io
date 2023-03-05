@@ -1,6 +1,7 @@
 ---
-layout: post
 title: "Understanding Linux Kernel Stack"
+collection: posts
+permalink: /posts/2015-12-18-kernel-stack
 date: 2015-12-18
 description: ""
 category: 

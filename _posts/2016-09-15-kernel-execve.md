@@ -1,6 +1,7 @@
 ---
-layout: post
 title: "Understanding Linux Execve System Call"
+collection: posts
+permalink: /posts/2016-09-15-kernel-execve
 date: 2016-09-15
 description: ""
 category: 

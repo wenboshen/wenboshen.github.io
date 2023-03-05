@@ -1,6 +1,7 @@
 ---
-layout: post
 title: "Short Notes on File System"
+collection: posts
+permalink: /posts/2015-09-16-file-system
 date: 2015-09-16
 description: ""
 category: 

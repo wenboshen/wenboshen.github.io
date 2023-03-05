@@ -1,6 +1,7 @@
 ---
-layout: post
 title: "Understanding Fork System Call"
+collection: posts
+permalink: /posts/2016-04-16-kernel-fork
 date: 2016-04-16
 description: ""
 category: 
