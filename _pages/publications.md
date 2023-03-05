@@ -6,7 +6,8 @@ author_profile: false
 classes: wide
 ---
 
-#### 2023
+2023
+=====
    * Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines    
    Ziyue Pan, **Wenbo Shen**, Xingkai Wang, Yutian Yang, Rui Chang, Yao Liu, Chengwei Liu, Yang Liu,
 Kui Ren   
@@ -25,8 +26,8 @@ Kui Ren
    毛天宇，王星宇，常瑞，申文博，任奎   
    软件学报[[PDF]](http://jos.org.cn/jos/article/abstract/6852)
 
-#### 2022
-
+2022
+=====
    * Location Heartbleeding: The Rise of Wi-Fi Spoofing Attack Via Geolocation API  
    Xiao Han, Junjie Xiong, Wenbo Shen, Zhuo Lu, Yao Liu   
    ACM CCS 22 [[PDF]](https://csalab.site/getsrc/?n=papers/22hxs-ccs.pdf)
