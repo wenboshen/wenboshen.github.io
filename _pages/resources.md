@@ -11,7 +11,8 @@ Computer Security 101
 * [MIT Computer Systems Security Course](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/) 
 * [Dr. Wenliang Du's SEED Labs](https://seedsecuritylabs.org/) 
 
-#### General Linux Kernel
+General Linux Kernel
+=====
 * [Interactive map of Linux kernel](http://makelinux.net/kernel_map/)
 * [Kernel System Calls](http://www.linux.it/~rubini/docs/ksys/)
 * [Kernel Memory Mapping](https://static.lwn.net/images/pdf/LDD3/ch15.pdf)
@@ -20,7 +21,8 @@ Computer Security 101
 * [PaX/Grsecurity --> KSPP --> AOSP kernel: Linux kernel mitigation checklist( WIP)](https://github.com/hardenedlinux/grsecurity-101-tutorials/blob/master/kernel_mitigation.md)
 * [Security things in Kernel](https://outflux.net/blog/)
 
-#### General LLVM
+General LLVM
+=====
 * [Static Program Analysis Course](https://homepages.dcc.ufmg.br/~fernando/classes/dcc888/ementa/)
 * [LLVM 中文wiki](https://people.cs.nctu.edu.tw/~chenwj/dokuwiki/doku.php?id=llvm)
 * [LLVM 知乎](https://zhuanlan.zhihu.com/p/40861992)
@@ -28,7 +30,8 @@ Computer Security 101
 * [Official LLVM Get Started](https://clang.llvm.org/get_started.html)
 * [Official LLVM Write a Pass](http://llvm.org/docs/WritingAnLLVMPass.html)
 
-#### Static Analysis
+Static Analysis
+=====
 * [Static Program Analysis - Anders Møller and Michael I. Schwartzbach](https://cs.au.dk/~amoeller/spa/) [[PDF]](https://cs.au.dk/~amoeller/spa/spa.pdf)
 * [Static Program Analysis - 南大](https://pascal-group.bitbucket.io/teaching.html)
 * Papers  
@@ -36,17 +39,16 @@ Computer Security 101
 	-Refinement-based context-sensitive points-to analysis for java  
 	-Wave Propagation and Deep Propagation
 
-
-#### Container Security
+Container Security
+=====
 * [DOCKER基础技术：LINUX NAMESPACE（上）](https://coolshell.cn/articles/17010.html)
 * [DOCKER基础技术：LINUX NAMESPACE（下）](https://coolshell.cn/articles/17029.html)
 * [Docker and Containers - Katacoda course](https://www.katacoda.com/courses/docker)
 * [Docker Security - Katacoda course](https://www.katacoda.com/courses/docker-security)
 * [Understanding and Hardening Linux Containers](https://www.nccgroup.trust/us/our-research/understanding-and-hardening-linux-containers/)
 
-
-
-#### Advanced Offense and Defense Readings
+Advanced Offense and Defense Readings
+=====
 * Academic Papers
 	- [SoK: Eternal War in Memory](https://people.eecs.berkeley.edu/~dawnsong/papers/Oakland13-SoK-CR.pdf)
 * Blackhat
@@ -75,19 +77,21 @@ Computer Security 101
 * [Paul Moore's blog](http://www.paul-moore.com/)
 * [GoSSIP @ LoCCS.Shanghai Jiao Tong University](https://securitygossip.com)
 
-
-#### Academic Conferences
+Academic Conferences
+=====
 * Security: IEEE S&P, CCS, USENIX Security, NDSS
 * Architecture: ASPLOS, HPCA, ISCA, MICRO
 * System/Program Analysis: SOSP, OSDI, PLDI, POPL 
 
-#### Tech/Hacker Conferences
+Tech/Hacker Conferences
+=====
 * [Blackhat](https://www.blackhat.com/us-19/), [Blackhat Europe](https://www.blackhat.com/eu-19/), [Blackhat Asia](https://www.blackhat.com/asia-19/)
 * [Defcon](https://www.defcon.org/), [Defcon China](https://www.defcon.org/html/dc-china-1/dc-cn-1-index.html)
 * [Linaro Connect](https://connect.linaro.org/)
 * [Linux Security Summit North America](http://www.paul-moore.com/blog/d/2018/09/linux_security_summit.html), [Linux Security Summit Europe](http://www.paul-moore.com/blog/d/2018/11/linux_security_summit.html)
 
-#### Research Advices
+Research Advices
+=====
 * [Common Technical Writing Issues by Prof. Tao Xie](https://taoxie.cs.illinois.edu/publications/writeissues.pdf)
 * [Writing Perfect Papers by Prof. Baochun Li](https://www.bilibili.com/video/BV18v411n7mr)
 * [什么是博士](https://www.douban.com/note/263446403/)
