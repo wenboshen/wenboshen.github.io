@@ -38,33 +38,43 @@ Recent Publications
 <br>
 
 <li><b>Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding</b><br>
-   Jietao Xiao, Nanzi Yang,Wenbo Shen, Jinku Li, Xin Guo, Zhiqiang Dong, Fei Xie, Jianfeng Ma<br>
-   USENIX Security 23
+   Jietao Xiao, Nanzi Yang, <b>Wenbo Shen</b>, Jinku Li, Xin Guo, Zhiqiang Dong, Fei Xie, Jianfeng Ma<br>
+   In USENIX Security Symposium. 2023.
 </li>
   
+<br>
+
 <li><b>VDom: Fast and Unlimited Virtual Domains on Multiple Architectures</b><br>
-Ziqi Yuan, Siyu Hong, Rui Chang, Yajin Zhou, Wenbo Shen, Kui Ren<br>
-ASPLOS 23
+Ziqi Yuan, Siyu Hong, Rui Chang, Yajin Zhou, <b>Wenbo Shen</b>, Kui Ren<br>
+ In Architectural Support for Programming Languages and Operating Systems (ASPLOS). 2023.
 </li>
+  
+<br>
 
 <li><b>面向Java语言生态的软件供应链安全分析技术</b><br>
 毛天宇，王星宇，常瑞，申文博，任奎<br>
 软件学报 23
 </li>
   
+<br>
+  
 <li><b>Making Memory Account Accountable: Analyzing and Detecting Memory Missing-account bugs for Container Platforms</b><br>
-Yutian Yang, Wenbo Shen, Xun Xie, Kangjie Lu, Mingsen Wang, Tianyu Zhou, Chenggang Qin, Wang Yu, Kui Ren<br>
-ACSAC 22
+Yutian Yang, <b>Wenbo Shen</b>, Xun Xie, Kangjie Lu, Mingsen Wang, Tianyu Zhou, Chenggang Qin, Wang Yu, Kui Ren<br>
+In Proceedings of the 38th Annual Computer Security Applications Conference (ACSAC), pp. 869-880. 2022.
 </li>
   
+<br>
+  
 <li><b>Automatic Permission Check Analysis for Linux Kernel</b><br>
-Jinmeng Zhou, Tong Zhang, Wenbo Shen, Dongyoon Lee, Changhee Jung, Ahmed Azab, Ruowen Wang, Peng Ning, Kui Ren<br>
-Transactions on Dependable and Secure Computing (TDSC)
+Jinmeng Zhou, Tong Zhang, <b>Wenbo Shen</b>, Dongyoon Lee, Changhee Jung, Ahmed Azab, Ruowen Wang, Peng Ning, Kui Ren<br>
+Transactions on Dependable and Secure Computing (TDSC). 2022
 </li>
+  
+<br>
 
 <li><b>RegVault: Hardware Assisted Selective Data Randomization for Operating System Kernels</b><br>
-Jinyan Xu, Haoran Lin, Ziqi Yuan, Wenbo Shen, Yajin Zhou, Rui Chang, Lei Wu, Kui Ren<br>
-Design Automation Conference (DAC 2022) 
+Jinyan Xu, Haoran Lin, Ziqi Yuan, <b>Wenbo Shen</b>, Yajin Zhou, Rui Chang, Lei Wu, Kui Ren<br>
+In Proceedings of the 59th ACM/IEEE Design Automation Conference (DAC), pp. 715-720. 2022.
 </li>
   
   
