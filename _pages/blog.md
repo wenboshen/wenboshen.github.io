@@ -5,7 +5,7 @@ permalink: /blog/
 author_profile: false
 ---
 
-* Jun 29, 2021	[Fuchsia Inside](/_posts/2021-06-29-fuchsia.md)
+* Jun 29, 2021	[Fuchsia Inside](/_pages/2021-06-29-fuchsia.md)
 * Jan 19, 2021	[Details of BPF](posts/2021-01-19-bpf.md)
 * Aug 19, 2020	[Inside Memory Control Group](posts/2020-08-19-memcg.md)
 * Dec 25, 2018	[Gvisor inside](posts/2018-12-25-gvisor-inside.md)
