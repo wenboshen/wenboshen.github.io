@@ -28,7 +28,7 @@ Background
 
 Recent Publications 
 ======
-<span style=font-size:20px>[Full list in <a href="/publications">Publications</a>]</span>
+[Full list in Publications](/publications)]
 <div style="font-size:16px;background-color:rgba(141, 212, 232, 0.2); text-align:left; vertical-align: middle; padding:10px 0;">
   
 <li><b>Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines</b><br>
