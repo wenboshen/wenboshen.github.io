@@ -26,7 +26,7 @@ Background
 
 <br>
 
-Recent Publications
+Recent Publications <h3>[Full list in [Publications](/publications)]</h3>
 ======
 <div style="font-size:16px;background-color:rgba(141, 212, 232, 0.2); text-align:left; vertical-align: middle; padding:10px 0;">
   
