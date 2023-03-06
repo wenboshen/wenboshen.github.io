@@ -1,12 +1,9 @@
 ---
 permalink: /
 title: "Short Bio"
-excerpt: "About me"
+excerpt: "Index"
 author_profile: true
 classes: wide
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 <div style="background-color:rgba(141, 212, 232, 0.2); text-align:left; vertical-align: middle; padding:10px 0;">
 Dr. Wenbo Shen is a ZJU100 Young Professor at Zhejiang University. 
