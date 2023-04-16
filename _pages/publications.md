@@ -11,11 +11,11 @@ classes: wide
    * Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines    
    Ziyue Pan, **Wenbo Shen**, Xingkai Wang, Yutian Yang, Rui Chang, Yao Liu, Chengwei Liu, Yang Liu,
 Kui Ren   
-   Transactions on Dependable and Secure Computing (TDSC) [[PDF]]()
+   Transactions on Dependable and Secure Computing (TDSC) [[PDF]](https://ieeexplore.ieee.org/document/10061526)
 
    * Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding    
    Jietao Xiao, Nanzi Yang,**Wenbo Shen**, Jinku Li, Xin Guo, Zhiqiang Dong, Fei Xie, Jianfeng Ma  
-   USENIX Security 23[[PDF]]()
+   USENIX Security 23[[PDF]](https://www.usenix.org/conference/usenixsecurity23/presentation/xiaojietao)
 
 
    * VDom: Fast and Unlimited Virtual Domains on Multiple Architectures  
