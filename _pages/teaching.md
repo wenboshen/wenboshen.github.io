@@ -20,7 +20,7 @@ Courses
 
 Talks
 =====
-* 系统安全大颗粒方向进展与展望, JTC, 2023/04
+* 面向云原生的操作系统内核安全，OpenHarmony城市技术论坛(上海)，2023/04
 * Software Supply Chain Security, ZJU-Qatar workshop, 2023/03
 * 操作系统内核攻防的演化和展望, ZGC Seminar, 2023/01
 * 从内核到容器：云原生技术栈安全分析, 云原生安全创新峰会，2023/01
