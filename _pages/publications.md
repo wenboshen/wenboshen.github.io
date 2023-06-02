@@ -17,11 +17,11 @@ classes: wide
    USENIX Security 23
 
    * Demystifying Pointer Authentication Implementation and Usage on Apple M1  
-   Zechao Cai, Jiaxun Zhu, Wenbo Shen, Yutian Yang, Rui Chang, Yu Wang, Jinku Li, Kui Ren  
+   Zechao Cai, Jiaxun Zhu, **Wenbo Shen**, Yutian Yang, Rui Chang, Yu Wang, Jinku Li, Kui Ren  
    USENIX Security 23
 
    * Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding    
-   Jietao Xiao, Nanzi Yang,**Wenbo Shen**, Jinku Li, Xin Guo, Zhiqiang Dong, Fei Xie, Jianfeng Ma  
+   Jietao Xiao, Nanzi Yang, **Wenbo Shen**, Jinku Li, Xin Guo, Zhiqiang Dong, Fei Xie, Jianfeng Ma  
    USENIX Security 23 [[PDF]](https://www.usenix.org/conference/usenixsecurity23/presentation/xiaojietao)
 
    * Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines    
