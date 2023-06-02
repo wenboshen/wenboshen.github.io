@@ -22,7 +22,7 @@ classes: wide
 
    * Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding    
    Jietao Xiao, Nanzi Yang,**Wenbo Shen**, Jinku Li, Xin Guo, Zhiqiang Dong, Fei Xie, Jianfeng Ma  
-   USENIX Security 23[[PDF]](https://www.usenix.org/conference/usenixsecurity23/presentation/xiaojietao)
+   USENIX Security 23 [[PDF]](https://www.usenix.org/conference/usenixsecurity23/presentation/xiaojietao)
 
    * Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines    
    Ziyue Pan, **Wenbo Shen**, Xingkai Wang, Yutian Yang, Rui Chang, Yao Liu, Chengwei Liu, Yang Liu,
