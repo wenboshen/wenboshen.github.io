@@ -8,15 +8,26 @@ classes: wide
 
 2023
 =====
-   * Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines    
-   Ziyue Pan, **Wenbo Shen**, Xingkai Wang, Yutian Yang, Rui Chang, Yao Liu, Chengwei Liu, Yang Liu,
-Kui Ren   
-   Transactions on Dependable and Secure Computing (TDSC) [[PDF]](https://ieeexplore.ieee.org/document/10061526)
+   * Travelling the Hypervisor and SSD: A Tag-Based Approach Against Crypto Ransomware with Fine-Grained Data Recovery  
+   Boyang Ma, Yilin Yang, Jinku Li, Fengwei Zhang, Wenbo Shen, Yajin Zhou, Jianfeng Ma  
+   ACM CCS 23
+
+   * A Hybrid Alias Analysis and Its Application to Global Variable Protection in the Linux Kernel  
+   Guoren Li, Hang Zhang, Jinmeng Zhou, Wenbo Shen, Yulei Sui, Zhiyun Qian  
+   USENIX Security 23
+
+   * Demystifying Pointer Authentication Implementation and Usage on Apple M1  
+   Zechao Cai, Jiaxun Zhu, Wenbo Shen, Yutian Yang, Rui Chang, Yu Wang, Jinku Li, Kui Ren  
+   USENIX Security 23
 
    * Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding    
    Jietao Xiao, Nanzi Yang,**Wenbo Shen**, Jinku Li, Xin Guo, Zhiqiang Dong, Fei Xie, Jianfeng Ma  
    USENIX Security 23[[PDF]](https://www.usenix.org/conference/usenixsecurity23/presentation/xiaojietao)
 
+   * Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines    
+   Ziyue Pan, **Wenbo Shen**, Xingkai Wang, Yutian Yang, Rui Chang, Yao Liu, Chengwei Liu, Yang Liu,
+Kui Ren   
+   Transactions on Dependable and Secure Computing (TDSC) [[PDF]](https://ieeexplore.ieee.org/document/10061526)
 
    * VDom: Fast and Unlimited Virtual Domains on Multiple Architectures  
    Ziqi Yuan, Siyu Hong, Rui Chang, Yajin Zhou, Wenbo Shen, Kui Ren  
