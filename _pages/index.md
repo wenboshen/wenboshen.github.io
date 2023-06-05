@@ -35,7 +35,7 @@ Recent Publications
   
 <br>
 
-<li><b>Demystifying Pointer Authentication Implementation and Usage on Apple M1</b><br>
+<li><b>Demystifying Pointer Authentication on Apple M1</b><br>
    Zechao Cai, Jiaxun Zhu, <b>Wenbo Shen</b>, Yutian Yang, Rui Chang, Yu Wang, Jinku Li, Kui Ren<br>
    USENIX Security Symposium. 2023.
 </li>

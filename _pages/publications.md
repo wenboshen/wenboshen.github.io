@@ -16,7 +16,7 @@ classes: wide
    Guoren Li, Hang Zhang, Jinmeng Zhou, Wenbo Shen, Yulei Sui, Zhiyun Qian  
    USENIX Security Symposium 23
 
-   * Demystifying Pointer Authentication Implementation and Usage on Apple M1  
+   * Demystifying Pointer Authentication on Apple M1  
    Zechao Cai, Jiaxun Zhu, **Wenbo Shen**, Yutian Yang, Rui Chang, Yu Wang, Jinku Li, Kui Ren  
    USENIX Security Symposium 23
 
