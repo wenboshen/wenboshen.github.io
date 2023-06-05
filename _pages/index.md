@@ -66,7 +66,7 @@ Recent Publications
   
 <li><b>Making Memory Account Accountable: Analyzing and Detecting Memory Missing-account bugs for Container Platforms</b><br>
     Yutian Yang, <b>Wenbo Shen</b>, Xun Xie, Kangjie Lu, Mingsen Wang, Tianyu Zhou, Chenggang Qin, Wang Yu, Kui Ren<br>
-    Annual Computer Security Applications Conference (ACSAC), pp. 869-880. 2022.
+    Annual Computer Security Applications Conference (ACSAC). 2022.
 </li>
   
 <br>
@@ -80,7 +80,7 @@ Transactions on Dependable and Secure Computing (TDSC). 2022
 
 <li><b>RegVault: Hardware Assisted Selective Data Randomization for Operating System Kernels</b><br>
     Jinyan Xu, Haoran Lin, Ziqi Yuan, <b>Wenbo Shen</b>, Yajin Zhou, Rui Chang, Lei Wu, Kui Ren<br>
-    ACM/IEEE Design Automation Conference (DAC), pp. 715-720. 2022.
+    ACM/IEEE Design Automation Conference (DAC). 2022.
 </li>
 </div>
 
