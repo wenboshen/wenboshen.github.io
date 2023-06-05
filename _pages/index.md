@@ -27,7 +27,29 @@ Recent Publications
 ======
 [[Full list in Publications](/publications)]
 <div style="font-size:16px;background-color:rgba(141, 212, 232, 0.2); text-align:left; vertical-align: middle; padding:10px 0;">
+
+<li><b>A Hybrid Alias Analysis and Its Application to Global Variable Protection in the Linux Kernel</b><br>
+   Guoren Li, Hang Zhang, Jinmeng Zhou, Wenbo Shen, Yulei Sui, Zhiyun Qian<br>
+   USENIX Security Symposium. 2023.
+</li>
   
+<br>
+
+<li><b>Demystifying Pointer Authentication Implementation and Usage on Apple M1</b><br>
+   Zechao Cai, Jiaxun Zhu, <b>Wenbo Shen</b>, Yutian Yang, Rui Chang, Yu Wang, Jinku Li, Kui Ren<br>
+   USENIX Security Symposium. 2023.
+</li>
+  
+<br>
+
+
+<li><b>Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding</b><br>
+   Jietao Xiao, Nanzi Yang, <b>Wenbo Shen</b>, Jinku Li, Xin Guo, Zhiqiang Dong, Fei Xie, Jianfeng Ma<br>
+   USENIX Security Symposium. 2023.
+</li>
+  
+<br>
+
 <li><b>Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines</b><br>
    Ziyue Pan, <b>Wenbo Shen</b>, Xingkai Wang, Yutian Yang, Rui Chang, Yao Liu, Chengwei Liu, Yang Liu, Kui Ren<br>
    Transactions on Dependable and Secure Computing (TDSC). 2023
@@ -35,23 +57,16 @@ Recent Publications
 
 <br>
 
-<li><b>Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding</b><br>
-   Jietao Xiao, Nanzi Yang, <b>Wenbo Shen</b>, Jinku Li, Xin Guo, Zhiqiang Dong, Fei Xie, Jianfeng Ma<br>
-   In USENIX Security Symposium. 2023.
-</li>
-  
-<br>
-
 <li><b>VDom: Fast and Unlimited Virtual Domains on Multiple Architectures</b><br>
-Ziqi Yuan, Siyu Hong, Rui Chang, Yajin Zhou, <b>Wenbo Shen</b>, Kui Ren<br>
- In Architectural Support for Programming Languages and Operating Systems (ASPLOS). 2023.
+   Ziqi Yuan, Siyu Hong, Rui Chang, Yajin Zhou, <b>Wenbo Shen</b>, Kui Ren<br>
+   Architectural Support for Programming Languages and Operating Systems (ASPLOS). 2023.
 </li>
   
 <br>
   
 <li><b>Making Memory Account Accountable: Analyzing and Detecting Memory Missing-account bugs for Container Platforms</b><br>
-Yutian Yang, <b>Wenbo Shen</b>, Xun Xie, Kangjie Lu, Mingsen Wang, Tianyu Zhou, Chenggang Qin, Wang Yu, Kui Ren<br>
-In Proceedings of Annual Computer Security Applications Conference (ACSAC), pp. 869-880. 2022.
+    Yutian Yang, <b>Wenbo Shen</b>, Xun Xie, Kangjie Lu, Mingsen Wang, Tianyu Zhou, Chenggang Qin, Wang Yu, Kui Ren<br>
+    Annual Computer Security Applications Conference (ACSAC), pp. 869-880. 2022.
 </li>
   
 <br>
@@ -64,8 +79,8 @@ Transactions on Dependable and Secure Computing (TDSC). 2022
 <br>
 
 <li><b>RegVault: Hardware Assisted Selective Data Randomization for Operating System Kernels</b><br>
-Jinyan Xu, Haoran Lin, Ziqi Yuan, <b>Wenbo Shen</b>, Yajin Zhou, Rui Chang, Lei Wu, Kui Ren<br>
-In Proceedings of the 59th ACM/IEEE Design Automation Conference (DAC), pp. 715-720. 2022.
+    Jinyan Xu, Haoran Lin, Ziqi Yuan, <b>Wenbo Shen</b>, Yajin Zhou, Rui Chang, Lei Wu, Kui Ren<br>
+    ACM/IEEE Design Automation Conference (DAC), pp. 715-720. 2022.
 </li>
 </div>
 
