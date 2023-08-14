@@ -9,7 +9,7 @@ classes: wide
 2023
 =====
    * Take Over the Whole Cluster: Attacking Kubernetes via Excessive Permissions of Third-party Applications  
-   Nanzi Yang, Wenbo Shen, Jinku Li, Xunqi Liu, Xin Guo, Jianfeng Ma  
+   Nanzi Yang, **Wenbo Shen**, Jinku Li, Xunqi Liu, Xin Guo, Jianfeng Ma  
    ACM CCS 23  
 
    * Travelling the Hypervisor and SSD: A Tag-Based Approach Against Crypto Ransomware with Fine-Grained Data Recovery  
