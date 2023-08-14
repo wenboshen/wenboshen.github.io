@@ -18,11 +18,11 @@ classes: wide
 
    * A Hybrid Alias Analysis and Its Application to Global Variable Protection in the Linux Kernel  
    Guoren Li, Hang Zhang, Jinmeng Zhou, Wenbo Shen, Yulei Sui, Zhiyun Qian  
-   USENIX Security Symposium 23
+   USENIX Security Symposium 23 [[PDF]](https://www.usenix.org/system/files/usenixsecurity23-li-guoren.pdf)
 
    * Demystifying Pointer Authentication on Apple M1  
    Zechao Cai, Jiaxun Zhu, **Wenbo Shen**, Yutian Yang, Rui Chang, Yu Wang, Jinku Li, Kui Ren  
-   USENIX Security Symposium 23
+   USENIX Security Symposium 23 [[PDF]](https://www.usenix.org/system/files/usenixsecurity23-cai-zechao.pdf)
 
    * Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding    
    Jietao Xiao, Nanzi Yang, **Wenbo Shen**, Jinku Li, Xin Guo, Zhiqiang Dong, Fei Xie, Jianfeng Ma  
