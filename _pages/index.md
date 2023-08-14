@@ -43,51 +43,51 @@ Recent Publications
 <br>
 
 <li><b>Demystifying Pointer Authentication on Apple M1</b><br>
-   Zechao Cai, Jiaxun Zhu, <b>Wenbo Shen</b>, Yutian Yang, Rui Chang, Yu Wang, Jinku Li, Kui Ren<br>
-   USENIX Security Symposium. 2023.
+  &#20;&#20;&#20;&#20; Zechao Cai, Jiaxun Zhu, <b>Wenbo Shen</b>, Yutian Yang, Rui Chang, Yu Wang, Jinku Li, Kui Ren<br>
+  &#20;&#20;&#20;&#20; USENIX Security Symposium. 2023.
 </li>
   
 <br>
 
 
 <li><b>Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding</b><br>
-   Jietao Xiao, Nanzi Yang, <b>Wenbo Shen</b>, Jinku Li, Xin Guo, Zhiqiang Dong, Fei Xie, Jianfeng Ma<br>
-   USENIX Security Symposium. 2023.
+ &#20;&#20;&#20;&#20;   Jietao Xiao, Nanzi Yang, <b>Wenbo Shen</b>, Jinku Li, Xin Guo, Zhiqiang Dong, Fei Xie, Jianfeng Ma<br>
+ &#20;&#20;&#20;&#20;  USENIX Security Symposium. 2023.
 </li>
   
 <br>
 
 <li><b>Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines</b><br>
-   Ziyue Pan, <b>Wenbo Shen</b>, Xingkai Wang, Yutian Yang, Rui Chang, Yao Liu, Chengwei Liu, Yang Liu, Kui Ren<br>
-   Transactions on Dependable and Secure Computing (TDSC). 2023
+ &#20;&#20;&#20;&#20;  Ziyue Pan, <b>Wenbo Shen</b>, Xingkai Wang, Yutian Yang, Rui Chang, Yao Liu, Chengwei Liu, Yang Liu, Kui Ren<br>
+ &#20;&#20;&#20;&#20;  Transactions on Dependable and Secure Computing (TDSC). 2023
 </li>
 
 <br>
 
 <li><b>VDom: Fast and Unlimited Virtual Domains on Multiple Architectures</b><br>
-   Ziqi Yuan, Siyu Hong, Rui Chang, Yajin Zhou, Wenbo Shen, Kui Ren<br>
-   Architectural Support for Programming Languages and Operating Systems (ASPLOS). 2023.
+ &#20;&#20;&#20;&#20;  Ziqi Yuan, Siyu Hong, Rui Chang, Yajin Zhou, Wenbo Shen, Kui Ren<br>
+ &#20;&#20;&#20;&#20;  Architectural Support for Programming Languages and Operating Systems (ASPLOS). 2023.
 </li>
   
 <br>
   
 <li><b>Making Memory Account Accountable: Analyzing and Detecting Memory Missing-account bugs for Container Platforms</b><br>
-    Yutian Yang, <b>Wenbo Shen</b>, Xun Xie, Kangjie Lu, Mingsen Wang, Tianyu Zhou, Chenggang Qin, Wang Yu, Kui Ren<br>
-    Annual Computer Security Applications Conference (ACSAC). 2022.
+ &#20;&#20;&#20;&#20;   Yutian Yang, <b>Wenbo Shen</b>, Xun Xie, Kangjie Lu, Mingsen Wang, Tianyu Zhou, Chenggang Qin, Wang Yu, Kui Ren<br>
+ &#20;&#20;&#20;&#20;   Annual Computer Security Applications Conference (ACSAC). 2022.
 </li>
   
 <br>
   
 <li><b>Automatic Permission Check Analysis for Linux Kernel</b><br>
-Jinmeng Zhou, Tong Zhang, <b>Wenbo Shen</b>, Dongyoon Lee, Changhee Jung, Ahmed Azab, Ruowen Wang, Peng Ning, Kui Ren<br>
-Transactions on Dependable and Secure Computing (TDSC). 2022
+ &#20;&#20;&#20;&#20; Jinmeng Zhou, Tong Zhang, <b>Wenbo Shen</b>, Dongyoon Lee, Changhee Jung, Ahmed Azab, Ruowen Wang, Peng Ning, Kui Ren<br>
+ &#20;&#20;&#20;&#20; Transactions on Dependable and Secure Computing (TDSC). 2022
 </li>
   
 <br>
 
 <li><b>RegVault: Hardware Assisted Selective Data Randomization for Operating System Kernels</b><br>
-    Jinyan Xu, Haoran Lin, Ziqi Yuan, <b>Wenbo Shen</b>, Yajin Zhou, Rui Chang, Lei Wu, Kui Ren<br>
-    ACM/IEEE Design Automation Conference (DAC). 2022.
+ &#20;&#20;&#20;&#20;   Jinyan Xu, Haoran Lin, Ziqi Yuan, <b>Wenbo Shen</b>, Yajin Zhou, Rui Chang, Lei Wu, Kui Ren<br>
+ &#20;&#20;&#20;&#20;   ACM/IEEE Design Automation Conference (DAC). 2022.
 </li>
 </div>
 
