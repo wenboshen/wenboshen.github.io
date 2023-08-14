@@ -29,12 +29,12 @@ Recent Publications
 <div style="font-size:16px;background-color:rgba(141, 212, 232, 0.2); text-align:left; vertical-align: middle; padding:10px 0;">
 
 <li><b>Take Over the Whole Cluster: Attacking Kubernetes via Excessive Permissions of Third-party Applications</b><br> 
-   Nanzi Yang, <b>Wenbo Shen</b>, Jinku Li, Xunqi Liu, Xin Guo, Jianfeng Ma <br> 
-   ACM CCS 23  
+ &#20;&#20;&#20;Nanzi Yang, <b>Wenbo Shen</b>, Jinku Li, Xunqi Liu, Xin Guo, Jianfeng Ma <br> 
+ &#20;&#20;&#20;&#20;ACM CCS 23  
 </li>
 
 <li><b>A Hybrid Alias Analysis and Its Application to Global Variable Protection in the Linux Kernel</b><br>
-   Guoren Li, Hang Zhang, Jinmeng Zhou, Wenbo Shen, Yulei Sui, Zhiyun Qian<br>
+  &#20;&#20; Guoren Li, Hang Zhang, Jinmeng Zhou, Wenbo Shen, Yulei Sui, Zhiyun Qian<br>
    USENIX Security Symposium. 2023.
 </li>
   
