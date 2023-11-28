@@ -8,9 +8,6 @@ classes: wide
 Dr. Wenbo Shen is a ZJU100 Professor at Zhejiang University. 
 His research interests are operating system security, container security, and software supply chain security. He has published over 40 research papers at top-tier academic conferences. Dr. Wenbo Shen is a recipient of three distinguished paper awards (NDSS 16, AsiaCCS 17, ACSAC 22). His research works on operating system protection have been deployed on hundreds of millions of devices.
 
-<br>
-
-
 Research
 ======
 Dr. Wenbo Shen and his group concentrates on two primary areas.
@@ -93,8 +90,6 @@ Recent Publications
  &#20;&#20;&#20;&#20;   ACM/IEEE Design Automation Conference (DAC). 2022.
 </li>
 </div>
-
-<br>
 
 Background
 - 2019 -  Now, Zhejiang University (China), College of Computer Science and Technology, ZJU100 Professor
