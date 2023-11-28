@@ -10,11 +10,13 @@ classes: wide
 =====
    * Take Over the Whole Cluster: Attacking Kubernetes via Excessive Permissions of Third-party Applications  
    Nanzi Yang, **Wenbo Shen**, Jinku Li, Xunqi Liu, Xin Guo, Jianfeng Ma  
-   ACM CCS 23  
+   ACM CCS 23  [[PDF]](https://dl.acm.org/doi/10.1145/3576915.3623121)
+
 
    * Travelling the Hypervisor and SSD: A Tag-Based Approach Against Crypto Ransomware with Fine-Grained Data Recovery  
    Boyang Ma, Yilin Yang, Jinku Li, Fengwei Zhang, Wenbo Shen, Yajin Zhou, Jianfeng Ma  
-   ACM CCS 23
+   ACM CCS 23 [[PDF]](https://dl.acm.org/doi/10.1145/3576915.3616665)
+
 
    * A Hybrid Alias Analysis and Its Application to Global Variable Protection in the Linux Kernel  
    Guoren Li, Hang Zhang, Jinmeng Zhou, Wenbo Shen, Yulei Sui, Zhiyun Qian  
