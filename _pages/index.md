@@ -14,7 +14,6 @@ Dr. Wenbo Shen and his group concentrates on two primary areas.
 - Operating System Kernel Security: 1) performing **OS kernel analysis** to discover and eliminate new attack surfaces and vulnerabilities. 2) utilizing current hardware capabilities to develop innovative **software-based protection strategies** for the kernel. 3) leveraging software-hardware co-design to create **new hardware features** for system and software security.
   * **USENIX SEC 23**: [Demystifying Pointer Authentication on Apple M1](https://www.usenix.org/system/files/usenixsecurity23-cai-zechao.pdf)
   * **USENIX SEC 23**: [A Hybrid Alias Analysis and Its Application to Global Variable Protection in the Linux Kernel](https://www.usenix.org/system/files/usenixsecurity23-li-guoren.pdf)
-  * **ACSAC 23**: [Making Memory Account Accountable: Analyzing and Detecting Memory Missing-account bugs for Container Platforms](publications/papers/memcg.pdf), **Distinguished Paper Award**
   * **TDSC 23**: [kCPA: Towards Sensitive Pointer Full Life Cycle Authentication for OS kernels]()
   * **TDSC 22**: [Automatic Permission Check Analysis for Linux Kernel](publications/papers/tdsc22.pdf)
   * **DAC 22**: [RegVault: Hardware Assisted Selective Data Randomization for Operating System Kernels](publications/papers/regvault-dac22.pdf)
@@ -24,52 +23,9 @@ Dr. Wenbo Shen and his group concentrates on two primary areas.
   * **ICSE 24**: [Demystifying Compiler Unstable Feature Usage and Impacts in the Rust Ecosystem]()
   * **ACM CCS 23**: [Take Over the Whole Cluster: Attacking Kubernetes via Excessive Permissions of Third-party Applications](https://dl.acm.org/doi/10.1145/3576915.3623121)
   * **USENIX SEC 23**: [Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding](https://www.usenix.org/conference/usenixsecurity23/presentation/xiaojietao)
-  * **TDSC 22**: [Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines](publications/papers/tdsc22.pdf)
+  * **TDSC 23**: [Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines](https://ieeexplore.ieee.org/document/10061526/)
+  * **ACSAC 22**: [Making Memory Account Accountable: Analyzing and Detecting Memory Missing-account bugs for Container Platforms](publications/papers/memcg.pdf), **Distinguished Paper Award**
   * **ACM CCS 21**: [Demons in the Shared Kernel: Abstract Resource Attacks Against OS-level Virtualization, ACM CCS 2021](publications/papers/LogicalDoS.pdf)
-
-
-
-Recent Publications 
-======
-[[Full list in Publications](/publications)]  
-   * Take Over the Whole Cluster: Attacking Kubernetes via Excessive Permissions of Third-party Applications  
-   Nanzi Yang, **Wenbo Shen**, Jinku Li, Xunqi Liu, Xin Guo, Jianfeng Ma  
-   ACM CCS 23  [[PDF]](https://dl.acm.org/doi/10.1145/3576915.3623121)
-
-   * A Hybrid Alias Analysis and Its Application to Global Variable Protection in the Linux Kernel  
-   Guoren Li, Hang Zhang, Jinmeng Zhou, Wenbo Shen, Yulei Sui, Zhiyun Qian  
-   USENIX Security Symposium 23 [[PDF]](https://www.usenix.org/system/files/usenixsecurity23-li-guoren.pdf)
-
-   * Demystifying Pointer Authentication on Apple M1  
-   Zechao Cai, Jiaxun Zhu, **Wenbo Shen**, Yutian Yang, Rui Chang, Yu Wang, Jinku Li, Kui Ren  
-   USENIX Security Symposium 23 [[PDF]](https://www.usenix.org/system/files/usenixsecurity23-cai-zechao.pdf)
-
-   * Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding    
-   Jietao Xiao, Nanzi Yang, **Wenbo Shen**, Jinku Li, Xin Guo, Zhiqiang Dong, Fei Xie, Jianfeng Ma  
-   USENIX Security Symposium 23 [[PDF]](https://www.usenix.org/conference/usenixsecurity23/presentation/xiaojietao)
-
-   * Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines    
-   Ziyue Pan, **Wenbo Shen**, Xingkai Wang, Yutian Yang, Rui Chang, Yao Liu, Chengwei Liu, Yang Liu,
-Kui Ren   
-   Transactions on Dependable and Secure Computing (TDSC) [[PDF]](https://ieeexplore.ieee.org/document/10061526)
-
-   * VDom: Fast and Unlimited Virtual Domains on Multiple Architectures  
-   Ziqi Yuan, Siyu Hong, Rui Chang, Yajin Zhou, Wenbo Shen, Kui Ren  
-   ASPLOS 23 [[PDF]](https://dl.acm.org/doi/abs/10.1145/3575693.3575735)
-
-
-   * Making Memory Account Accountable: Analyzing and Detecting Memory Missing-account bugs for Container Platforms  
-   Yutian Yang, **Wenbo Shen**, Xun Xie, Kangjie Lu, Mingsen Wang, Tianyu Zhou, Chenggang Qin, Wang Yu, Kui Ren  
-   ACSAC 22[[PDF]](papers/memcg.pdf) <span style="color:blue">**Distinguished Paper Award**</span>   
-
-   * Automatic Permission Check Analysis for Linux Kernel  
-   Jinmeng Zhou, Tong Zhang, **Wenbo Shen**, Dongyoon Lee, Changhee Jung, Ahmed Azab, Ruowen Wang, Peng Ning, Kui Ren  
-   Transactions on Dependable and Secure Computing (TDSC) [[PDF]](papers/tdsc22.pdf)
-
-   * RegVault: Hardware Assisted Selective Data Randomization for Operating System Kernels  
-   Jinyan Xu, Haoran Lin, Ziqi Yuan, **Wenbo Shen**, Yajin Zhou, Rui Chang, Lei Wu, Kui Ren  
-   In Design Automation Conference (DAC 2022) [[PDF]](papers/regvault-dac22.pdf)
-
 
 Background
 ======
