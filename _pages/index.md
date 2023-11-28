@@ -14,11 +14,19 @@ Dr. Wenbo Shen and his group concentrates on two primary areas.
 - Operating System Kernel Security: 1) analyzing OS kernel to discover and eliminate new attack surfaces and vulnerabilities. 2) utilizing current hardware capabilities to develop innovative software-based protection strategies for the kernel. 3) leveraging software-hardware co-design to create new hardware features for system and software security.
   * A Hybrid Alias Analysis and Its Application to Global Variable Protection in the Linux Kernel, USENIX SEC 2023
   * Demystifying Pointer Authentication on Apple M1, USENIX SEC 2023
+  * A Hybrid Alias Analysis and Its Application to Global Variable Protection in the Linux Kernel, USENIX SEC 2023
+  * VDom: Fast and Unlimited Virtual Domains on Multiple Architectures, ASPLOS 2023
+  * Making Memory Account Accountable: Analyzing and Detecting Memory Missing-account bugs for Container Platforms, ACSAC 2022, Distinguished Paper Award
+  * Automatic Permission Check Analysis for Linux Kernel, TDSC 2023
+  * RegVault: Hardware Assisted Selective Data Randomization for Operating System Kernels, DAC 2022
 
 
 - Container/Software Security: 1) conducting both static and dynamic analyses to enhance the security of container and cloud-native systems. 2) analyzing and securing software dependencies and programming language features to improve software supply chain security.
   * Take Over the Whole Cluster: Attacking Kubernetes via Excessive Permissions of Third-party Applications, ACM CCS 2023
   * Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding, USENIX SEC 2023
+  * Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines, TDSC 2023
+  * Demons in the Shared Kernel: Abstract Resource Attacks Against OS-level Virtualization, ACM CCS 2021
+
 
 
 Recent Publications 
