@@ -22,14 +22,7 @@ Dr. Wenbo Shen and his group concentrates on two primary areas.
 
 
 
-Background
-======
-<div style="background-color:rgba(141, 212, 232, 0.2); text-align:left; vertical-align: middle; padding:10px 0;">
-<li>2019 -  Now, Zhejiang University (China), College of Computer Science and Technology, ZJU100 Professor</li>
-<li>2015 - 2019, Samsung Research America (USA), Tech Lead of Kernel Protection (RKP)</li>
-<li>2010 - 2015, North Carolina State University (USA), Department of Computer Science, Ph.D</li>
-<li>2006 - 2010, Harbin Institute of Technology (China), School of Software Engineering, B.Eng</li>
-</div>
+
 
 <br>
 
@@ -102,6 +95,12 @@ Recent Publications
 </div>
 
 <br>
+
+Background
+- 2019 -  Now, Zhejiang University (China), College of Computer Science and Technology, ZJU100 Professor
+- 2015 - 2019, Samsung Research America (USA), Tech Lead of Kernel Protection (RKP)
+- 2010 - 2015, North Carolina State University (USA), Ph.D of Computer Science
+- 2006 - 2010, Harbin Institute of Technology (China), B.Eng of Software Engineering
 
 Awards
 ======
