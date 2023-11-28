@@ -15,12 +15,8 @@ Dr. Wenbo Shen and his group concentrates on two primary areas.
   * **USENIX SEC 23**: [Demystifying Pointer Authentication on Apple M1](https://www.usenix.org/system/files/usenixsecurity23-cai-zechao.pdf)
   * **USENIX SEC 23**: [A Hybrid Alias Analysis and Its Application to Global Variable Protection in the Linux Kernel](https://www.usenix.org/system/files/usenixsecurity23-li-guoren.pdf)
   * **ACSAC 23**: [Making Memory Account Accountable: Analyzing and Detecting Memory Missing-account bugs for Container Platforms](papers/memcg.pdf), **Distinguished Paper Award**
-
-  * <small>**TDSC 23**: [kCPA: Towards Sensitive Pointer Full Life Cycle Authentication for OS kernels]()</small>
-  
-  * <small>**TDSC 22**: [Automatic Permission Check Analysis for Linux Kernel](publications/papers/tdsc22.pdf)</small>
-
-  * <small>**DAC 22**: [RegVault: Hardware Assisted Selective Data Randomization for Operating System Kernels](publications/papers/regvault-dac22.pdf)</small>
+  * **TDSC 22**: [Automatic Permission Check Analysis for Linux Kernel](publications/papers/tdsc22.pdf)
+  * **DAC 22**: [RegVault: Hardware Assisted Selective Data Randomization for Operating System Kernels](publications/papers/regvault-dac22.pdf)
 
 
 - Container/Software Security: 1) conducting both static and dynamic analysis to enhance the **security of container and cloud-native systems**. 2) analyzing and securing software dependencies and programming language features to improve **software supply chain security**.
