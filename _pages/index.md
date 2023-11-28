@@ -15,12 +15,6 @@ Dr. Wenbo Shen and his group concentrates on two primary areas.
 
 - Container/Software Security: 1) conducting both static and dynamic analyses to enhance the security of container and cloud-native systems. 2) analyzing and securing software dependencies and programming language features to improve software supply chain security.
 
-
-
-
-
-
-
 <br>
 
 Recent Publications 
@@ -92,6 +86,7 @@ Recent Publications
 </div>
 
 Background
+======
 - 2019 -  Now, Zhejiang University (China), College of Computer Science and Technology, ZJU100 Professor
 - 2015 - 2019, Samsung Research America (USA), Tech Lead of Kernel Protection (RKP)
 - 2010 - 2015, North Carolina State University (USA), Ph.D of Computer Science
