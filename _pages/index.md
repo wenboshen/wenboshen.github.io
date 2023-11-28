@@ -15,36 +15,24 @@ Dr. Wenbo Shen and his group concentrates on two primary areas.
 
 - Container/Software Security: 1) conducting both static and dynamic analyses to enhance the security of container and cloud-native systems. 2) analyzing and securing software dependencies and programming language features to improve software supply chain security.
 
-<br>
 
 Recent Publications 
 ======
 [[Full list in Publications](/publications)]
-<div style="font-size:16px;background-color:rgba(141, 212, 232, 0.2); text-align:left; vertical-align: middle; padding:10px 0;">
 
-<li><b>Take Over the Whole Cluster: Attacking Kubernetes via Excessive Permissions of Third-party Applications</b><br> 
- &#20;&#20;&#20;&#20;Nanzi Yang, <b>Wenbo Shen</b>, Jinku Li, Xunqi Liu, Xin Guo, Jianfeng Ma <br> 
- &#20;&#20;&#20;&#20;ACM CCS 23  
-</li>
+- Take Over the Whole Cluster: Attacking Kubernetes via Excessive Permissions of Third-party Applications  
+Nanzi Yang, Wenbo Shen, Jinku Li, Xunqi Liu, Xin Guo, Jianfeng Ma  
+ACM CCS 23  
 
-<br>
-
-<li><b>A Hybrid Alias Analysis and Its Application to Global Variable Protection in the Linux Kernel</b><br>
-  &#20;&#20;&#20;&#20; Guoren Li, Hang Zhang, Jinmeng Zhou, Wenbo Shen, Yulei Sui, Zhiyun Qian<br>
+- A Hybrid Alias Analysis and Its Application to Global Variable Protection in the Linux Kernel
+  &#20;&#20;&#20;&#20; Guoren Li, Hang Zhang, Jinmeng Zhou, Wenbo Shen, Yulei Sui, Zhiyun Qian
   &#20;&#20;&#20;&#20;  USENIX Security Symposium. 2023.
-</li>
-  
-<br>
 
-<li><b>Demystifying Pointer Authentication on Apple M1</b><br>
+- Demystifying Pointer Authentication on Apple M1</b><br>
   &#20;&#20;&#20;&#20; Zechao Cai, Jiaxun Zhu, <b>Wenbo Shen</b>, Yutian Yang, Rui Chang, Yu Wang, Jinku Li, Kui Ren<br>
   &#20;&#20;&#20;&#20; USENIX Security Symposium. 2023.
-</li>
   
-<br>
-
-
-<li><b>Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding</b><br>
+- Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding</b><br>
  &#20;&#20;&#20;&#20;   Jietao Xiao, Nanzi Yang, <b>Wenbo Shen</b>, Jinku Li, Xin Guo, Zhiqiang Dong, Fei Xie, Jianfeng Ma<br>
  &#20;&#20;&#20;&#20;  USENIX Security Symposium. 2023.
 </li>
@@ -82,8 +70,6 @@ Recent Publications
 <li><b>RegVault: Hardware Assisted Selective Data Randomization for Operating System Kernels</b><br>
  &#20;&#20;&#20;&#20;   Jinyan Xu, Haoran Lin, Ziqi Yuan, <b>Wenbo Shen</b>, Yajin Zhou, Rui Chang, Lei Wu, Kui Ren<br>
  &#20;&#20;&#20;&#20;   ACM/IEEE Design Automation Conference (DAC). 2022.
-</li>
-</div>
 
 Background
 ======
@@ -94,10 +80,6 @@ Background
 
 Awards
 ======
-<div style="background-color:rgba(141, 212, 232, 0.2); text-align:left; vertical-align: middle; padding:10px 0;">
-<li>Distinguished Paper Award by Annual Computer Security Applications Conference (ACSAC), 2022</li>
-<li>Distinguished Paper Award by ACM Asia Conference on Computer and Communications Security (ASIACCS), ACM SIGSAC, 2017.</li>
-<li>Distinguished Paper Award by Network and Distributed System Security Symposium (NDSS), 2016.</li>
-</div>
-
-
+- Distinguished Paper Award by Annual Computer Security Applications Conference (ACSAC), 2022
+- Distinguished Paper Award by ACM Asia Conference on Computer and Communications Security (ASIACCS), ACM SIGSAC, 2017
+- Distinguished Paper Award by Network and Distributed System Security Symposium (NDSS), 2016
