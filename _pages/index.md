@@ -27,6 +27,8 @@ Dr. Wenbo Shen and his group concentrates on two primary areas.
   * **ACSAC 22**: [Making Memory Account Accountable: Analyzing and Detecting Memory Missing-account bugs for Container Platforms](publications/papers/memcg.pdf), **Distinguished Paper Award**
   * **ACM CCS 21**: [Demons in the Shared Kernel: Abstract Resource Attacks Against OS-level Virtualization, ACM CCS 2021](publications/papers/LogicalDoS.pdf)
 
+   [[Full paper list in Publications](/publications)]
+
 Background
 ======
 - 2019 -  Now, Zhejiang University (China), College of Computer Science and Technology, ZJU100 Professor
