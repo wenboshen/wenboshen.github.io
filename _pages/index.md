@@ -12,15 +12,18 @@ Research
 ======
 Dr. Wenbo Shen and his group concentrates on two primary areas.
 - Operating System Kernel Security: 1) analyzing OS kernel to discover and eliminate new attack surfaces and vulnerabilities. 2) utilizing current hardware capabilities to develop innovative software-based protection strategies for the kernel. 3) leveraging software-hardware co-design to create new hardware features for system and software security.
+  * A Hybrid Alias Analysis and Its Application to Global Variable Protection in the Linux Kernel, USENIX SEC 2023
+  * Demystifying Pointer Authentication on Apple M1, USENIX SEC 2023
+
 
 - Container/Software Security: 1) conducting both static and dynamic analyses to enhance the security of container and cloud-native systems. 2) analyzing and securing software dependencies and programming language features to improve software supply chain security.
+  * Take Over the Whole Cluster: Attacking Kubernetes via Excessive Permissions of Third-party Applications, ACM CCS 2023
+  * Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding, USENIX SEC 2023
 
 
 Recent Publications 
 ======
-[[Full list in Publications](/publications)]
-
-
+[[Full list in Publications](/publications)]  
    * Take Over the Whole Cluster: Attacking Kubernetes via Excessive Permissions of Third-party Applications  
    Nanzi Yang, **Wenbo Shen**, Jinku Li, Xunqi Liu, Xin Guo, Jianfeng Ma  
    ACM CCS 23  [[PDF]](https://dl.acm.org/doi/10.1145/3576915.3623121)
