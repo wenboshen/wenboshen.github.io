@@ -13,10 +13,16 @@ Research
 Dr. Wenbo Shen and his group concentrates on two primary areas.
 - Operating System Kernel Security: 1) **analyzing OS kernel** to discover and eliminate new attack surfaces and vulnerabilities. 2) utilizing current hardware capabilities to develop innovative **software-based protection strategies** for the kernel. 3) leveraging software-hardware co-design to create **new hardware features** for system and software security.
   * <small>**USENIX SEC 23**: [Demystifying Pointer Authentication on Apple M1](https://www.usenix.org/system/files/usenixsecurity23-cai-zechao.pdf)</small>
-  * A Hybrid Alias Analysis and Its Application to Global Variable Protection in the Linux Kernel, USENIX SEC 2023
-  * Making Memory Account Accountable: Analyzing and Detecting Memory Missing-account bugs for Container Platforms, ACSAC 2022, Distinguished Paper Award
-  * Automatic Permission Check Analysis for Linux Kernel, TDSC 2023
-  * RegVault: Hardware Assisted Selective Data Randomization for Operating System Kernels, DAC 2022
+
+  * <small>**USENIX SEC 23**: [A Hybrid Alias Analysis and Its Application to Global Variable Protection in the Linux Kernel](https://www.usenix.org/system/files/usenixsecurity23-li-guoren.pdf)</small>
+
+  * <small>**ACSAC 23**: [Making Memory Account Accountable: Analyzing and Detecting Memory Missing-account bugs for Container Platforms](papers/memcg.pdf), **Distinguished Paper Award**</small>
+
+  * <small>**TDSC 23**: ["kCPA: Towards Sensitive Pointer Full Life Cycle Authentication for OS kernels]()</small>
+  
+  * <small>**TDSC 22**: [Automatic Permission Check Analysis for Linux Kernel](papers/tdsc22.pdf)</small>
+
+  * <small>**DAC 22**: [RegVault: Hardware Assisted Selective Data Randomization for Operating System Kernels](papers/regvault-dac22.pdf)</small>
 
 
 - Container/Software Security: 1) conducting both static and dynamic analyses to enhance the security of container and cloud-native systems. 2) analyzing and securing software dependencies and programming language features to improve software supply chain security.
