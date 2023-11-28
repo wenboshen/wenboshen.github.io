@@ -13,10 +13,8 @@ Research
 Dr. Wenbo Shen and his group concentrates on two primary areas.
 - Operating System Kernel Security: 1) performing **OS kernel analysis** to discover and eliminate new attack surfaces and vulnerabilities. 2) utilizing current hardware capabilities to develop innovative **software-based protection strategies** for the kernel. 3) leveraging software-hardware co-design to create **new hardware features** for system and software security.
   * **USENIX SEC 23**: [Demystifying Pointer Authentication on Apple M1](https://www.usenix.org/system/files/usenixsecurity23-cai-zechao.pdf)
-
   * **USENIX SEC 23**: [A Hybrid Alias Analysis and Its Application to Global Variable Protection in the Linux Kernel](https://www.usenix.org/system/files/usenixsecurity23-li-guoren.pdf)
-
-  * <small>**ACSAC 23**: [Making Memory Account Accountable: Analyzing and Detecting Memory Missing-account bugs for Container Platforms](papers/memcg.pdf), **Distinguished Paper Award**</small>
+  * **ACSAC 23**: [Making Memory Account Accountable: Analyzing and Detecting Memory Missing-account bugs for Container Platforms](papers/memcg.pdf), **Distinguished Paper Award**
 
   * <small>**TDSC 23**: [kCPA: Towards Sensitive Pointer Full Life Cycle Authentication for OS kernels]()</small>
   
