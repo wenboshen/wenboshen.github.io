@@ -6,8 +6,19 @@ author_profile: false
 classes: wide
 ---
 
+2024
+=====
+   * Demystifying Compiler Unstable Feature Usage and Impacts in the Rust Ecosystem  
+   Chenghao Li, Yifei Wu, Wenbo Shen, Zichen Zhao, Rui Chang, Chengwei Liu, Yang Liu, Kui Ren  
+   ICSE 24 [[PDF]]()
+
+
 2023
 =====
+   * kCPA: Towards Sensitive Pointer Full Life Cycle Authentication for OS kernels  
+   Yutian Yang, Jinjiang Tu, Wenbo Shen, Songbo Zhu, Rui Chang, and Yajin Zhou  
+   Transactions on Dependable and Secure Computing (TDSC) [[PDF]]()
+
    * Take Over the Whole Cluster: Attacking Kubernetes via Excessive Permissions of Third-party Applications  
    Nanzi Yang, **Wenbo Shen**, Jinku Li, Xunqi Liu, Xin Guo, Jianfeng Ma  
    ACM CCS 23  [[PDF]](https://dl.acm.org/doi/10.1145/3576915.3623121)
