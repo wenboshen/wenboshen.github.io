@@ -18,6 +18,7 @@ Dr. Wenbo Shen and his group concentrates on two primary areas. [[Full paper lis
   * **TDSC 22**: [Automatic Permission Check Analysis for Linux Kernel](publications/papers/tdsc22.pdf)
   * **DAC 22**: [RegVault: Hardware Assisted Selective Data Randomization for Operating System Kernels](publications/papers/regvault-dac22.pdf)
   * **USENIX SEC 19**: [PeX: A Permission Check Analysis Framework for Linux Kernel](https://www.usenix.org/system/files/sec19-zhang-tong.pdf)
+  * **AsiaCCS 17** [SPOKE: Scalable Knowledge Collection and Attack Surface Analysis of Access Control Policy for Security Enhanced Android](https://www.enck.org/pubs/wang-asiaccs17.pdf) **Distinguished Paper Award**
   * **NDSS 16**: [SKEE: A lightweight Secure Kernel-level Execution Environment for ARM](publications/papers/skee-ndss16.pdf), **Distinguished Paper Award**
    * **ACM CCS 14**: [Hypervision Across Worlds: Real-time Kernel Protection from the ARM TrustZone Secure World](publications/papers/tz-rkp-ccs14.pdf)
 
