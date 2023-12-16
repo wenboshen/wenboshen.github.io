@@ -17,12 +17,12 @@ classes: wide
    * kCPA: Towards Sensitive Pointer Full Life Cycle Authentication for OS kernels  
    Yutian Yang, Jinjiang Tu, Wenbo Shen, Songbo Zhu, Rui Chang, and Yajin Zhou  
    Transactions on Dependable and Secure Computing (TDSC) [[PDF]](https://ieeexplore.ieee.org/document/10330138)
-       * Propose the new concept of full life-cycle integrity; implement on real Pointer Authentication hardware.
+       <!---* Propose the new concept of full life-cycle integrity; implement on real Pointer Authentication hardware.--->
 
    * Take Over the Whole Cluster: Attacking Kubernetes via Excessive Permissions of Third-party Applications  
    Nanzi Yang, **Wenbo Shen**, Jinku Li, Xunqi Liu, Xin Guo, Jianfeng Ma  
    ACM CCS 23  [[PDF]](https://dl.acm.org/doi/10.1145/3576915.3623121)
-       * First study on k8s 3rd-app security; get 8 CVEs and $1337 boundty from Google.
+       <!---* First study on k8s 3rd-app permission; get 8 new CVEs and $1337 boundty from Google.--->
 
 
    * Travelling the Hypervisor and SSD: A Tag-Based Approach Against Crypto Ransomware with Fine-Grained Data Recovery  
