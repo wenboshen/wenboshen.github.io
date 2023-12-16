@@ -8,7 +8,7 @@ classes: wide
 
 Courses
 =====
-* [Operating Systems (Turing Program 图灵班)- Fall & Winter 2021, 2022, 2023]()
+* [Operating Systems (Turing Program 图灵班) - Fall & Winter 2021, 2022, 2023](https://zju-sec.github.io/os23fall-stu/)
 
 * [System Security - Summer 2022, 2023](https://courses.zju.edu.cn/)
 
