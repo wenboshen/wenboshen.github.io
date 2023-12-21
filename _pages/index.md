@@ -1,6 +1,5 @@
 ---
 permalink: /
-layout: archive
 title: "Short Bio"
 excerpt: "Index"
 author_profile: true
