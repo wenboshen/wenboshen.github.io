@@ -9,11 +9,11 @@ classes: wide
 2024
 =====
    * 	ModuleGuard: Understanding and Detecting Module Conflicts in Python Ecosystem   
-   Ruofan Zhu, Xingyu Wang, Chengwei Liu, Zhengzi Xu, Wenbo Shen, Rui Chang, Yang Liu  
+   Ruofan Zhu, Xingyu Wang, Chengwei Liu, Zhengzi Xu, **Wenbo Shen**, Rui Chang, Yang Liu  
    ICSE 24 [[PDF]]()
 
    * Demystifying Compiler Unstable Feature Usage and Impacts in the Rust Ecosystem  
-   Chenghao Li, Yifei Wu, Wenbo Shen, Zichen Zhao, Rui Chang, Chengwei Liu, Yang Liu, Kui Ren  
+   Chenghao Li, Yifei Wu, **Wenbo Shen**, Zichen Zhao, Rui Chang, Chengwei Liu, Yang Liu, Kui Ren  
    ICSE 24 [[PDF]]()
 
    * The Perils of Wi-Fi Spoofing Attack Via Geolocation API and its Defense  
