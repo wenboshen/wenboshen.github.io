@@ -35,7 +35,7 @@ Dr. Wenbo Shen and his group concentrate on two primary areas. [[Full paper list
 Background
 ======
 - 2019 -  Now, Zhejiang University (China), College of Computer Science and Technology, ZJU100 Professor
-- 2015 - 2019, Samsung Research America (USA), Tech Lead of Kernel Protection (RKP)
+- 2015 - 2019, Samsung Research America (USA), Tech Lead of Real-time Kernel Protection (RKP)
 - 2010 - 2015, North Carolina State University (USA), Ph.D of Computer Science
 - 2006 - 2010, Harbin Institute of Technology (China), B.Eng of Software Engineering
 
