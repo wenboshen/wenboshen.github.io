@@ -47,7 +47,7 @@ classes: wide
    USENIX Security Symposium 23 [[PDF]](https://www.usenix.org/system/files/usenixsecurity23-cai-zechao.pdf)
    
    * Apple PAC, Four Years Later: Reverse Engineering the Customized Pointer Authentication Hardware Implementation on Apple M1  
-   Zechao Cai, Jiaxun Zhu, Yutian Yang, Wenbo Shen, Yu Wang  
+   Zechao Cai, Jiaxun Zhu, Yutian Yang, Wenbo Shen, Yu Wang   
    Black Hat USA 23 [[PDF]](https://www.blackhat.com/us-23/briefings/schedule/#apple-pac-four-years-later-reverse-engineering-the-customized-pointer-authentication-hardware-implementation-on-apple-m-32824)
 
    * Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding    
