@@ -8,7 +8,7 @@ classes: wide
 
 2024
 =====
-   * 	ModuleGuard: Understanding and Detecting Module Conflicts in Python Ecosystem   
+   * ModuleGuard: Understanding and Detecting Module Conflicts in Python Ecosystem   
    Ruofan Zhu, Xingyu Wang, Chengwei Liu, Zhengzi Xu, **Wenbo Shen**, Rui Chang, Yang Liu  
    ICSE 24 [[PDF]]()
 
@@ -22,7 +22,7 @@ classes: wide
 
 2023
 =====
-   * kCPA: Towards Sensitive Pointer Full Life Cycle Authentication for OS kernels  
+   * kCPA: Towards Sensitive Pointer Full Life Cycle Authentication for OS Kernels  
    Yutian Yang, Jinjiang Tu, Wenbo Shen, Songbo Zhu, Rui Chang, and Yajin Zhou  
    Transactions on Dependable and Secure Computing (TDSC) [[PDF]](https://ieeexplore.ieee.org/document/10330138)
        <!---* Propose the new concept of full life-cycle integrity; implement on real Pointer Authentication hardware.--->
@@ -45,6 +45,10 @@ classes: wide
    * Demystifying Pointer Authentication on Apple M1  
    Zechao Cai, Jiaxun Zhu, **Wenbo Shen**, Yutian Yang, Rui Chang, Yu Wang, Jinku Li, Kui Ren  
    USENIX Security Symposium 23 [[PDF]](https://www.usenix.org/system/files/usenixsecurity23-cai-zechao.pdf)
+   
+   * Apple PAC, Four Years Later: Reverse Engineering the Customized Pointer Authentication Hardware Implementation on Apple M1  
+   Zechao Cai, Jiaxun Zhu, Yutian Yang, Wenbo Shen, Yu Wang
+   Black Hat USA 23 [[PDF]](https://www.blackhat.com/us-23/briefings/schedule/#apple-pac-four-years-later-reverse-engineering-the-customized-pointer-authentication-hardware-implementation-on-apple-m-32824)
 
    * Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding    
    Jietao Xiao, Nanzi Yang, **Wenbo Shen**, Jinku Li, Xin Guo, Zhiqiang Dong, Fei Xie, Jianfeng Ma  
