@@ -8,6 +8,10 @@ classes: wide
 
 2024
 =====
+   * Atlas: Automating Cross-Language Fuzzing on Android Closed-Source Libraries  
+   Hao Xiong, Qinming Dai, Rui Chang, Mingran Qiu, Renxiang Wang, Wenbo Shen, Yajin Zhou  
+   ISSTA 24
+
    * ModuleGuard: Understanding and Detecting Module Conflicts in Python Ecosystem   
    Ruofan Zhu, Xingyu Wang, Chengwei Liu, Zhengzi Xu, **Wenbo Shen**, Rui Chang, Yang Liu  
    ICSE 24 [[PDF]]()
