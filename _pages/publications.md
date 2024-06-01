@@ -8,9 +8,17 @@ classes: wide
 
 2024
 =====
+   * DMAAUTH: A Lightweight Pointer Integrity-based Secure Architecture to Defeat DMA Attacks  
+   Xingkai Wang, Wenbo Shen, Yujie Bu, Zhiqiang Liu, Jinmeng Zhou, Ji Zhang, Lubo Zhang, Yajin Zhou  
+   USENIX Security Symposium 24 [[PDF]]()
+
+   * Towards Understanding and Defeating Abstract Resource Attacks for Container Platforms  
+   Wenbo Shen, Yifei Wu, Yutian Yang, Qirui Liu, Nanzi Yang, Jinku Li, Kangjie Lu, Jianfeng Ma  
+   TDSC [[PDF]]()
+
    * Atlas: Automating Cross-Language Fuzzing on Android Closed-Source Libraries  
    Hao Xiong, Qinming Dai, Rui Chang, Mingran Qiu, Renxiang Wang, Wenbo Shen, Yajin Zhou  
-   ISSTA 24
+   ISSTA 24[[PDF]]()
 
    * ModuleGuard: Understanding and Detecting Module Conflicts in Python Ecosystem   
    Ruofan Zhu, Xingyu Wang, Chengwei Liu, Zhengzi Xu, **Wenbo Shen**, Rui Chang, Yang Liu  
