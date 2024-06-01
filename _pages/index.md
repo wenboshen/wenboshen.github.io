@@ -21,7 +21,7 @@ Dr. Wenbo Shen and his group concentrate on two primary areas. [[Full paper list
   * **TDSC 22**: [Automatic Permission Check Analysis for Linux Kernel](publications/papers/tdsc22.pdf)
   * **DAC 22**: [RegVault: Hardware Assisted Selective Data Randomization for Operating System Kernels](publications/papers/regvault-dac22.pdf)
   * **USENIX SEC 19**: [PeX: A Permission Check Analysis Framework for Linux Kernel](https://www.usenix.org/system/files/sec19-zhang-tong.pdf)
-  * **NDSS 16 Distinguished Paper Award**: [SKEE: A lightweight Secure Kernel-level Execution Environment for ARM](publications/papers/skee-ndss16.pdf)
+  * **NDSS 16**: [SKEE: A lightweight Secure Kernel-level Execution Environment for ARM](publications/papers/skee-ndss16.pdf) **Distinguished Paper Award**
    * **ACM CCS 14**: [Hypervision Across Worlds: Real-time Kernel Protection from the ARM TrustZone Secure World](publications/papers/tz-rkp-ccs14.pdf)
 
 
@@ -32,7 +32,7 @@ Dr. Wenbo Shen and his group concentrate on two primary areas. [[Full paper list
   * **ACM CCS 23**: [Take Over the Whole Cluster: Attacking Kubernetes via Excessive Permissions of Third-party Applications](https://dl.acm.org/doi/10.1145/3576915.3623121)
   * **USENIX SEC 23**: [Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding](https://www.usenix.org/conference/usenixsecurity23/presentation/xiaojietao)
   * **TDSC 23**: [Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines](https://ieeexplore.ieee.org/document/10061526/)
-  * **ACSAC 22 Distinguished Paper Award**: [Making Memory Account Accountable: Analyzing and Detecting Memory Missing-account bugs for Container Platforms](publications/papers/memcg.pdf)
+  * **ACSAC 22**: [Making Memory Account Accountable: Analyzing and Detecting Memory Missing-account bugs for Container Platforms](publications/papers/memcg.pdf) **Distinguished Paper Award**
   * **ACM CCS 21**: [Demons in the Shared Kernel: Abstract Resource Attacks Against OS-level Virtualization, ACM CCS 2021](publications/papers/LogicalDoS.pdf)
 
 Background
