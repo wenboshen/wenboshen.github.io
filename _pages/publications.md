@@ -14,7 +14,7 @@ classes: wide
 
    * Towards Understanding and Defeating Abstract Resource Attacks for Container Platforms  
    Wenbo Shen, Yifei Wu, Yutian Yang, Qirui Liu, Nanzi Yang, Jinku Li, Kangjie Lu, Jianfeng Ma  
-   TDSC [[PDF]]()
+   TDSC [[PDF]](https://ieeexplore.ieee.org/document/10537099)
 
    * Atlas: Automating Cross-Language Fuzzing on Android Closed-Source Libraries  
    Hao Xiong, Qinming Dai, Rui Chang, Mingran Qiu, Renxiang Wang, Wenbo Shen, Yajin Zhou  
@@ -22,15 +22,15 @@ classes: wide
 
    * ModuleGuard: Understanding and Detecting Module Conflicts in Python Ecosystem   
    Ruofan Zhu, Xingyu Wang, Chengwei Liu, Zhengzi Xu, **Wenbo Shen**, Rui Chang, Yang Liu  
-   ICSE 24 [[PDF]]()
+   ICSE 24 [[PDF]](https://arxiv.org/pdf/2401.02090)
 
    * Demystifying Compiler Unstable Feature Usage and Impacts in the Rust Ecosystem  
    Chenghao Li, Yifei Wu, **Wenbo Shen**, Zichen Zhao, Rui Chang, Chengwei Liu, Yang Liu, Kui Ren  
-   ICSE 24 [[PDF]]()
+   ICSE 24 [[PDF]](https://arxiv.org/pdf/2310.17186)
 
    * The Perils of Wi-Fi Spoofing Attack Via Geolocation API and its Defense  
    Xiao Han, Junjie Xiong, Wenbo Shen, Mingkui Wei,Shangqing Zhao, Zhuo Lu, Yao Liu  
-   TDSC [[PDF]]()
+   TDSC [[PDF]](https://ieeexplore.ieee.org/document/10388403)
 
 2023
 =====
