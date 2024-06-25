@@ -8,6 +8,10 @@ classes: wide
 
 2024
 =====
+   * Interp-flow Hijacking: Launching Non-control Data Attack via Hijacking eBPF Interpretation Flow  
+   Qirui Liu, Wenbo Shen, Jinmeng Zhou, Zhuoruo Zhang, Jiayi Hu, Shukai Ni, Kangjie Lu and Rui Chang  
+   ESORICS 24 [[PDF]]()
+
    * DMAAUTH: A Lightweight Pointer Integrity-based Secure Architecture to Defeat DMA Attacks  
    Xingkai Wang, Wenbo Shen, Yujie Bu, Zhiqiang Liu, Jinmeng Zhou, Ji Zhang, Lubo Zhang, Yajin Zhou  
    USENIX Security Symposium 24 [[PDF]]()
