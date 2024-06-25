@@ -14,7 +14,7 @@ Research
 Dr. Wenbo Shen and his group concentrate on two primary areas. [[Full paper list](/publications)]
 - **Operating System Kernel Security**: 1) performing **OS kernel analysis** to discover and eliminate new attack surfaces and vulnerabilities; 2) utilizing current hardware capabilities to develop innovative **software-based protection strategies** for the kernel; 3) leveraging software-hardware co-design to create **new hardware features** for system and software security.
   * **USENIX SEC 24**: [DMAAUTH: A Lightweight Pointer Integrity-based Secure Architecture to Defeat DMA Attacks]()
-  * **ESORICS 24** [Interp-flow Hijacking: Launching Non-control Data Attack via Hijacking eBPF Interpretation Flow]()
+  * **ESORICS 24**: [Interp-flow Hijacking: Launching Non-control Data Attack via Hijacking eBPF Interpretation Flow]()
   * **USENIX SEC 23**: [Demystifying Pointer Authentication on Apple M1](https://www.usenix.org/system/files/usenixsecurity23-cai-zechao.pdf)
   * **USENIX SEC 23**: [A Hybrid Alias Analysis and Its Application to Global Variable Protection in the Linux Kernel](https://www.usenix.org/system/files/usenixsecurity23-li-guoren.pdf)
   * **Black Hat USA 23**: [Apple PAC, Four Years Later: Reverse Engineering the Customized Pointer Authentication Hardware Implementation on Apple M1](https://www.blackhat.com/us-23/briefings/schedule/#apple-pac-four-years-later-reverse-engineering-the-customized-pointer-authentication-hardware-implementation-on-apple-m-32824)
