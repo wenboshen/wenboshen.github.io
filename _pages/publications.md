@@ -8,16 +8,16 @@ classes: wide
 
 2024
 =====
-   * Interp-flow Hijacking: Launching Non-control Data Attack via Hijacking eBPF Interpretation Flow  
-   Qirui Liu, Wenbo Shen, Jinmeng Zhou, Zhuoruo Zhang, Jiayi Hu, Shukai Ni, Kangjie Lu and Rui Chang  
-   ESORICS 24 [[PDF]]()
-
    * DMAAUTH: A Lightweight Pointer Integrity-based Secure Architecture to Defeat DMA Attacks  
-   Xingkai Wang, Wenbo Shen, Yujie Bu, Jinmeng Zhou, Yajin Zhou  
+   Xingkai Wang, **Wenbo Shen**, Yujie Bu, Jinmeng Zhou, Yajin Zhou  
    USENIX Security Symposium 24 [[PDF]]()
 
+   * Interp-flow Hijacking: Launching Non-control Data Attack via Hijacking eBPF Interpretation Flow  
+   Qirui Liu, **Wenbo Shen**, Jinmeng Zhou, Zhuoruo Zhang, Jiayi Hu, Shukai Ni, Kangjie Lu and Rui Chang  
+   ESORICS 24 [[PDF]]()
+
    * Towards Understanding and Defeating Abstract Resource Attacks for Container Platforms  
-   Wenbo Shen, Yifei Wu, Yutian Yang, Qirui Liu, Nanzi Yang, Jinku Li, Kangjie Lu, Jianfeng Ma  
+   **Wenbo Shen**, Yifei Wu, Yutian Yang, Qirui Liu, Nanzi Yang, Jinku Li, Kangjie Lu, Jianfeng Ma  
    TDSC [[PDF]](https://ieeexplore.ieee.org/document/10537099)
 
    * Atlas: Automating Cross-Language Fuzzing on Android Closed-Source Libraries  
@@ -39,7 +39,7 @@ classes: wide
 2023
 =====
    * kCPA: Towards Sensitive Pointer Full Life Cycle Authentication for OS Kernels  
-   Yutian Yang, Jinjiang Tu, Wenbo Shen, Songbo Zhu, Rui Chang, and Yajin Zhou  
+   Yutian Yang, Jinjiang Tu, **Wenbo Shen**, Songbo Zhu, Rui Chang, and Yajin Zhou  
    Transactions on Dependable and Secure Computing (TDSC) [[PDF]](https://ieeexplore.ieee.org/document/10330138)
        <!---* Propose the new concept of full life-cycle integrity; implement on real Pointer Authentication hardware.--->
 
