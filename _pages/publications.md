@@ -13,7 +13,7 @@ classes: wide
    ESORICS 24 [[PDF]]()
 
    * DMAAUTH: A Lightweight Pointer Integrity-based Secure Architecture to Defeat DMA Attacks  
-   Xingkai Wang, Wenbo Shen, Yujie Bu, Zhiqiang Liu, Jinmeng Zhou, Ji Zhang, Lubo Zhang, Yajin Zhou  
+   Xingkai Wang, Wenbo Shen, Yujie Bu, Jinmeng Zhou, Yajin Zhou  
    USENIX Security Symposium 24 [[PDF]]()
 
    * Towards Understanding and Defeating Abstract Resource Attacks for Container Platforms  
