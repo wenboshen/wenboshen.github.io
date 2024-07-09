@@ -16,9 +16,13 @@ classes: wide
    Qirui Liu, **Wenbo Shen**, Jinmeng Zhou, Zhuoruo Zhang, Jiayi Hu, Shukai Ni, Kangjie Lu and Rui Chang  
    ESORICS 24 [[PDF]]()
 
-   * Towards Understanding and Defeating Abstract Resource Attacks for Container Platforms  
-   **Wenbo Shen**, Yifei Wu, Yutian Yang, Qirui Liu, Nanzi Yang, Jinku Li, Kangjie Lu, Jianfeng Ma  
-   TDSC [[PDF]](https://ieeexplore.ieee.org/document/10537099)
+   * Automated Data Binding Vulnerability Detection for Java Web Frameworks via Nested Property Graph  
+   Xiaoyong Yan, Biao He, **Wenbo Shen**, Yu Ouyang, Kaihang Zhou, Xingjian Zhang, Xingyu Wang, Yukai Cao, Rui Chang  
+   ISSTA 24[[PDF]]()
+
+   * Bugs in Pods: Understanding Bugs in Container Runtime Systems  
+   Jiongchi Yu, Xiaofei Xie, Cen Zhang, Sen Chen, Yuekang Li, Wenbo Shen  
+   ISSTA 24[[PDF]]()
 
    * Atlas: Automating Cross-Language Fuzzing on Android Closed-Source Libraries  
    Hao Xiong, Qinming Dai, Rui Chang, Mingran Qiu, Renxiang Wang, Wenbo Shen, Yajin Zhou  
@@ -31,6 +35,10 @@ classes: wide
    * Demystifying Compiler Unstable Feature Usage and Impacts in the Rust Ecosystem  
    Chenghao Li, Yifei Wu, **Wenbo Shen**, Zichen Zhao, Rui Chang, Chengwei Liu, Yang Liu, Kui Ren  
    ICSE 24 [[PDF]](https://arxiv.org/pdf/2310.17186)
+
+   * Towards Understanding and Defeating Abstract Resource Attacks for Container Platforms  
+   **Wenbo Shen**, Yifei Wu, Yutian Yang, Qirui Liu, Nanzi Yang, Jinku Li, Kangjie Lu, Jianfeng Ma  
+   TDSC [[PDF]](https://ieeexplore.ieee.org/document/10537099)
 
    * The Perils of Wi-Fi Spoofing Attack Via Geolocation API and its Defense  
    Xiao Han, Junjie Xiong, Wenbo Shen, Mingkui Wei,Shangqing Zhao, Zhuo Lu, Yao Liu  
