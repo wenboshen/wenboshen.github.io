@@ -7,7 +7,7 @@ author_profile: true
 classes: wide
 ---
 Dr. Wenbo Shen is a ZJU100 Young Professor at [Zhejiang University](https://www.zju.edu.cn/). 
-His research interests are operating system security, container security, and software supply chain security. He has published over 40 research papers at top-tier academic conferences. Dr. Wenbo Shen is a recipient of three distinguished paper awards ([NDSS 16](https://www.internetsociety.org/blog/2016/02/ndss-2016-grants-distinguished-papers-awards/), [AsiaCCS 17](https://asiaccs2017.trust-sysec.com/program/distinguished-papers/), [ACSAC 22](https://www.acsac.org/archive/)). His research work of [Real-time Kernel Protection (RKP)](https://docs.samsungknox.com/admin/fundamentals/whitepaper/core-platform-security/real-time-kernel-protection/) has been deployed on hundreds of millions of devices.
+His research interests are operating system security, container security, and software supply chain security. He has published over 50 research papers at top-tier academic conferences. Dr. Wenbo Shen is a recipient of three distinguished paper awards ([NDSS 16](https://www.internetsociety.org/blog/2016/02/ndss-2016-grants-distinguished-papers-awards/), [AsiaCCS 17](https://asiaccs2017.trust-sysec.com/program/distinguished-papers/), [ACSAC 22](https://www.acsac.org/archive/)). His research work of [Real-time Kernel Protection (RKP)](https://docs.samsungknox.com/admin/fundamentals/whitepaper/core-platform-security/real-time-kernel-protection/) has been deployed on hundreds of millions of devices.
 
 Research
 ======

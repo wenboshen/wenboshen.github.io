@@ -11,6 +11,7 @@ classes: wide
    * DMAAUTH: A Lightweight Pointer Integrity-based Secure Architecture to Defeat DMA Attacks  
    Xingkai Wang, **Wenbo Shen**, Yujie Bu, Jinmeng Zhou, Yajin Zhou  
    USENIX Security Symposium 24 [[PDF]]()
+       <!--- the 49th papers--->
 
    * Interp-flow Hijacking: Launching Non-control Data Attack via Hijacking eBPF Interpretation Flow  
    Qirui Liu, **Wenbo Shen**, Jinmeng Zhou, Zhuoruo Zhang, Jiayi Hu, Shukai Ni, Kangjie Lu and Rui Chang  
