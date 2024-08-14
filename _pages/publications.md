@@ -10,7 +10,7 @@ classes: wide
 =====
    * DMAAUTH: A Lightweight Pointer Integrity-based Secure Architecture to Defeat DMA Attacks  
    Xingkai Wang, **Wenbo Shen**, Yujie Bu, Jinmeng Zhou, Yajin Zhou  
-   USENIX Security Symposium 24 [[PDF]]()
+   USENIX Security Symposium 24 [[PDF]](papers/DMAAuth.pdf) 
    <!--- the 50th papers--->
 
    * PageJack: A Powerful Exploit Technique With Page-Level UAF  
