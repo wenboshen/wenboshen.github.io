@@ -19,7 +19,7 @@ classes: wide
 
    * PageJack: A Powerful Exploit Technique With Page-Level UAF  
    Jiayi Hu, Zhiyun Qian, Jinmeng Zhou, Qi Tang, Wenbo Shen  
-   Black Hat USA 24 [PDF]
+   Black Hat USA 24 [PDF](https://www.blackhat.com/us-24/briefings/schedule/#pagejack-a-powerful-exploit-technique-with-page-level-uaf-40440)
 
    * Interp-flow Hijacking: Launching Non-control Data Attack via Hijacking eBPF Interpretation Flow  
    Qirui Liu, **Wenbo Shen**, Jinmeng Zhou, Zhuoruo Zhang, Jiayi Hu, Shukai Ni, Kangjie Lu and Rui Chang  
