@@ -9,7 +9,7 @@ classes: wide
 2024
 =====
    * CrossFire: Fuzzing macOS Cross-XPU Memory on Apple Silicon  
-   Jiaxun Zhu, Minghao Lin, Tingting Yin, Zechao Cai, Yu Wang, Rui Chang, Wenbo Shen  
+   Jiaxun Zhu, Minghao Lin, Tingting Yin, Zechao Cai, Yu Wang, Rui Chang, **Wenbo Shen**  
    ACM CCS 24 [[PDF]]()
 
    * DMAAUTH: A Lightweight Pointer Integrity-based Secure Architecture to Defeat DMA Attacks  
