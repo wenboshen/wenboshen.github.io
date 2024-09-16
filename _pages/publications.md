@@ -22,7 +22,7 @@ classes: wide
 
    * PageJack: A Powerful Exploit Technique With Page-Level UAF  
    Jiayi Hu, Zhiyun Qian, Jinmeng Zhou, Qi Tang, Wenbo Shen  
-   Black Hat USA 24 [PDF](https://www.blackhat.com/us-24/briefings/schedule/#pagejack-a-powerful-exploit-technique-with-page-level-uaf-40440)
+   Black Hat USA 24 [[PDF]](https://www.blackhat.com/us-24/briefings/schedule/#pagejack-a-powerful-exploit-technique-with-page-level-uaf-40440)
    <!--- the 50th papers--->
 
    * A novel page-UAF exploit strategy  
