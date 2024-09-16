@@ -15,11 +15,19 @@ classes: wide
    * DMAAUTH: A Lightweight Pointer Integrity-based Secure Architecture to Defeat DMA Attacks  
    Xingkai Wang, **Wenbo Shen**, Yujie Bu, Jinmeng Zhou, Yajin Zhou  
    USENIX Security Symposium 24 [[PDF]](papers/DMAAuth.pdf) 
-   <!--- the 50th papers--->
+
+   * LightZone: Lightweight Hardware-Assisted In-Process Isolation for ARM64  
+   Ziqi Yuan, Siyu Hong, Ruorong Guo, Rui Chang, Mingyu Gao, Wenbo Shen, Yajin Zhou  
+   Middleware 24 [[PDF]]()
 
    * PageJack: A Powerful Exploit Technique With Page-Level UAF  
    Jiayi Hu, Zhiyun Qian, Jinmeng Zhou, Qi Tang, Wenbo Shen  
    Black Hat USA 24 [PDF](https://www.blackhat.com/us-24/briefings/schedule/#pagejack-a-powerful-exploit-technique-with-page-level-uaf-40440)
+   <!--- the 50th papers--->
+
+   * A novel page-UAF exploit strategy  
+   Jinmeng Zhou, Jiayi Hu, Wenbo Shen, Zhiyun Qian  
+   Phrack Magazine [[Link]](https://phrack.org/issues/71/13.html#article)
 
    * Interp-flow Hijacking: Launching Non-control Data Attack via Hijacking eBPF Interpretation Flow  
    Qirui Liu, **Wenbo Shen**, Jinmeng Zhou, Zhuoruo Zhang, Jiayi Hu, Shukai Ni, Kangjie Lu and Rui Chang  
