@@ -10,7 +10,7 @@ classes: wide
 =====
    * CrossFire: Fuzzing macOS Cross-XPU Memory on Apple Silicon  
    Jiaxun Zhu, Minghao Lin, Tingting Yin, Zechao Cai, Yu Wang, Rui Chang, Wenbo Shen  
-   ACM CCS 24[[PDF]]()
+   ACM CCS 24 [[PDF]]()
 
    * DMAAUTH: A Lightweight Pointer Integrity-based Secure Architecture to Defeat DMA Attacks  
    Xingkai Wang, **Wenbo Shen**, Yujie Bu, Jinmeng Zhou, Yajin Zhou  
@@ -23,7 +23,7 @@ classes: wide
 
    * Interp-flow Hijacking: Launching Non-control Data Attack via Hijacking eBPF Interpretation Flow  
    Qirui Liu, **Wenbo Shen**, Jinmeng Zhou, Zhuoruo Zhang, Jiayi Hu, Shukai Ni, Kangjie Lu and Rui Chang  
-   ESORICS 24 [[PDF]]()
+   ESORICS 24 [[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-031-70896-1_10)
 
    * Automated Data Binding Vulnerability Detection for Java Web Frameworks via Nested Property Graph  
    Xiaoyong Yan, Biao He, **Wenbo Shen**, Yu Ouyang, Kaihang Zhou, Xingjian Zhang, Xingyu Wang, Yukai Cao, Rui Chang  
