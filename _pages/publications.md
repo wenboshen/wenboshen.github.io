@@ -12,6 +12,10 @@ classes: wide
    Jiaxun Zhu, Minghao Lin, Tingting Yin, Zechao Cai, Yu Wang, Rui Chang, **Wenbo Shen**  
    ACM CCS 24 [[PDF]]()
 
+   * Interp-flow Hijacking: Launching Non-control Data Attack via Hijacking eBPF Interpretation Flow  
+   Qirui Liu, **Wenbo Shen**, Jinmeng Zhou, Zhuoruo Zhang, Jiayi Hu, Shukai Ni, Kangjie Lu and Rui Chang  
+   ESORICS 24 [[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-031-70896-1_10) <span style="color:blue">**Distinguished Paper Award \(1/535\)**</span>   
+
    * DMAAUTH: A Lightweight Pointer Integrity-based Secure Architecture to Defeat DMA Attacks  
    Xingkai Wang, **Wenbo Shen**, Yujie Bu, Jinmeng Zhou, Yajin Zhou  
    USENIX Security Symposium 24 [[PDF]](papers/DMAAuth.pdf) 
@@ -19,19 +23,16 @@ classes: wide
    * LightZone: Lightweight Hardware-Assisted In-Process Isolation for ARM64  
    Ziqi Yuan, Siyu Hong, Ruorong Guo, Rui Chang, Mingyu Gao, Wenbo Shen, Yajin Zhou  
    Middleware 24 [[PDF]]()
-
+   <!--- the 50th papers--->
+   
    * PageJack: A Powerful Exploit Technique With Page-Level UAF  
    Jiayi Hu, Zhiyun Qian, Jinmeng Zhou, Qi Tang, Wenbo Shen  
    Black Hat USA 24 [[PDF]](https://www.blackhat.com/us-24/briefings/schedule/#pagejack-a-powerful-exploit-technique-with-page-level-uaf-40440)
-   <!--- the 50th papers--->
 
    * A novel page-UAF exploit strategy  
    Jinmeng Zhou, Jiayi Hu, Wenbo Shen, Zhiyun Qian  
    Phrack Magazine [[Link]](https://phrack.org/issues/71/13.html#article)
 
-   * Interp-flow Hijacking: Launching Non-control Data Attack via Hijacking eBPF Interpretation Flow  
-   Qirui Liu, **Wenbo Shen**, Jinmeng Zhou, Zhuoruo Zhang, Jiayi Hu, Shukai Ni, Kangjie Lu and Rui Chang  
-   ESORICS 24 [[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-031-70896-1_10) <span style="color:blue">**Distinguished Paper Award \(1/535\)**</span>   
 
    * Automated Data Binding Vulnerability Detection for Java Web Frameworks via Nested Property Graph  
    Xiaoyong Yan, Biao He, **Wenbo Shen**, Yu Ouyang, Kaihang Zhou, Xingjian Zhang, Xingyu Wang, Yukai Cao, Rui Chang  
