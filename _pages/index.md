@@ -15,7 +15,7 @@ Dr. Wenbo Shen and his group concentrate on two primary areas. [[Full paper list
 - **Operating System Kernel Security**: 1) performing **OS kernel analysis** to discover and eliminate new attack surfaces and vulnerabilities; 2) utilizing current hardware capabilities to develop innovative **software-based protection strategies** for the kernel; 3) leveraging software-hardware co-design to create **new hardware features** for system and software security.
   * **ACM CCS 24**: [CrossFire: Fuzzing macOS Cross-XPU Memory on Apple Silicon]()
   * **USENIX SEC 24**: [DMAAUTH: A Lightweight Pointer Integrity-based Secure Architecture to Defeat DMA Attacks](publications/papers/DMAAuth.pdf)
-  * **ESORICS 24** [<span style="color:blue">**Distinguished Paper \(1/535\)**</span>]: [Interp-flow Hijacking: Launching Non-control Data Attack via Hijacking eBPF Interpretation Flow](https://link.springer.com/content/pdf/10.1007/978-3-031-70896-1_10)    
+  * **ESORICS 24** <span style="color:blue">**[Distinguished Paper \(1/535\)]**</span>: [Interp-flow Hijacking: Launching Non-control Data Attack via Hijacking eBPF Interpretation Flow](https://link.springer.com/content/pdf/10.1007/978-3-031-70896-1_10)    
   * **Black Hat USA 24**: [PageJack: A Powerful Exploit Technique With Page-Level UAF](https://www.blackhat.com/us-24/briefings/schedule/#pagejack-a-powerful-exploit-technique-with-page-level-uaf-40440)
   * **USENIX SEC 23**: [Demystifying Pointer Authentication on Apple M1](https://www.usenix.org/system/files/usenixsecurity23-cai-zechao.pdf)
   * **USENIX SEC 23**: [A Hybrid Alias Analysis and Its Application to Global Variable Protection in the Linux Kernel](https://www.usenix.org/system/files/usenixsecurity23-li-guoren.pdf)
@@ -24,7 +24,7 @@ Dr. Wenbo Shen and his group concentrate on two primary areas. [[Full paper list
   * **TDSC 22**: [Automatic Permission Check Analysis for Linux Kernel](publications/papers/tdsc22.pdf)
   * **DAC 22**: [RegVault: Hardware Assisted Selective Data Randomization for Operating System Kernels](publications/papers/regvault-dac22.pdf)
   * **USENIX SEC 19**: [PeX: A Permission Check Analysis Framework for Linux Kernel](https://www.usenix.org/system/files/sec19-zhang-tong.pdf)
-  * **NDSS 16**: [SKEE: A lightweight Secure Kernel-level Execution Environment for ARM](publications/papers/skee-ndss16.pdf) <span style="color:blue"> **Distinguished Paper Award**</span>   
+  * **NDSS 16** <span style="color:blue">**[Distinguished Paper]**</span>: [SKEE: A lightweight Secure Kernel-level Execution Environment for ARM](publications/papers/skee-ndss16.pdf)     
    * **ACM CCS 14**: [Hypervision Across Worlds: Real-time Kernel Protection from the ARM TrustZone Secure World](publications/papers/tz-rkp-ccs14.pdf)
 
 
@@ -35,7 +35,7 @@ Dr. Wenbo Shen and his group concentrate on two primary areas. [[Full paper list
   * **ACM CCS 23**: [Take Over the Whole Cluster: Attacking Kubernetes via Excessive Permissions of Third-party Applications](https://dl.acm.org/doi/10.1145/3576915.3623121)
   * **USENIX SEC 23**: [Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding](https://www.usenix.org/conference/usenixsecurity23/presentation/xiaojietao)
   * **TDSC 23**: [Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines](https://ieeexplore.ieee.org/document/10061526/)
-  * **ACSAC 22**: [Making Memory Account Accountable: Analyzing and Detecting Memory Missing-account bugs for Container Platforms](publications/papers/memcg.pdf) **Distinguished Paper Award**
+  * **ACSAC 22** <span style="color:blue">**[Distinguished Paper \(3/303\)]**</span>: [Making Memory Account Accountable: Analyzing and Detecting Memory Missing-account bugs for Container Platforms](publications/papers/memcg.pdf)  
   * **ACM CCS 21**: [Demons in the Shared Kernel: Abstract Resource Attacks Against OS-level Virtualization, ACM CCS 2021](publications/papers/LogicalDoS.pdf)
 
 Background
