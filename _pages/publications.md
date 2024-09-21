@@ -31,19 +31,19 @@ classes: wide
 
    * Interp-flow Hijacking: Launching Non-control Data Attack via Hijacking eBPF Interpretation Flow  
    Qirui Liu, **Wenbo Shen**, Jinmeng Zhou, Zhuoruo Zhang, Jiayi Hu, Shukai Ni, Kangjie Lu and Rui Chang  
-   ESORICS 24 [[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-031-70896-1_10) <span style="color:blue">**Distinguished Paper Award**</span>   
+   ESORICS 24 [[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-031-70896-1_10) <span style="color:blue">**Distinguished Paper Award \(1/535\)**</span>   
 
    * Automated Data Binding Vulnerability Detection for Java Web Frameworks via Nested Property Graph  
    Xiaoyong Yan, Biao He, **Wenbo Shen**, Yu Ouyang, Kaihang Zhou, Xingjian Zhang, Xingyu Wang, Yukai Cao, Rui Chang  
-   ISSTA 24[[PDF]]()
+   ISSTA 24[[PDF]](https://2024.issta.org/details/issta-2024-papers/110/Automated-Data-Binding-Vulnerability-Detection-for-Java-Web-Frameworks-via-Nested-Pro)
 
    * Bugs in Pods: Understanding Bugs in Container Runtime Systems  
    Jiongchi Yu, Xiaofei Xie, Cen Zhang, Sen Chen, Yuekang Li, Wenbo Shen  
-   ISSTA 24[[PDF]]()
+   ISSTA 24[[PDF]](https://2024.issta.org/details/issta-2024-papers/109/Bugs-in-Pods-Understanding-Bugs-in-Container-Runtime-Systems)
 
    * Atlas: Automating Cross-Language Fuzzing on Android Closed-Source Libraries  
    Hao Xiong, Qinming Dai, Rui Chang, Mingran Qiu, Renxiang Wang, Wenbo Shen, Yajin Zhou  
-   ISSTA 24[[PDF]]()
+   ISSTA 24[[PDF]](https://dl.acm.org/doi/10.1145/3650212.3652133)
 
    * ModuleGuard: Understanding and Detecting Module Conflicts in Python Ecosystem   
    Ruofan Zhu, Xingyu Wang, Chengwei Liu, Zhengzi Xu, **Wenbo Shen**, Rui Chang, Yang Liu  
@@ -116,7 +116,7 @@ Kui Ren
 
    * Making Memory Account Accountable: Analyzing and Detecting Memory Missing-account bugs for Container Platforms  
    Yutian Yang, **Wenbo Shen**, Xun Xie, Kangjie Lu, Mingsen Wang, Tianyu Zhou, Chenggang Qin, Wang Yu, Kui Ren  
-   ACSAC 22[[PDF]](papers/memcg.pdf) <span style="color:blue">**Distinguished Paper Award**</span>   
+   ACSAC 22[[PDF]](papers/memcg.pdf) <span style="color:blue">**Distinguished Paper Award \(3/303\)**</span>   
 
    * Automatic Permission Check Analysis for Linux Kernel  
    Jinmeng Zhou, Tong Zhang, **Wenbo Shen**, Dongyoon Lee, Changhee Jung, Ahmed Azab, Ruowen Wang, Peng Ning, Kui Ren  
