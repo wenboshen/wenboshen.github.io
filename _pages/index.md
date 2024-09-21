@@ -15,7 +15,7 @@ Dr. Wenbo Shen and his group concentrate on two primary areas. [[Full paper list
 - **Operating System Kernel Security**: 1) performing **OS kernel analysis** to discover and eliminate new attack surfaces and vulnerabilities; 2) utilizing current hardware capabilities to develop innovative **software-based protection strategies** for the kernel; 3) leveraging software-hardware co-design to create **new hardware features** for system and software security.
   * **ACM CCS 24**: [CrossFire: Fuzzing macOS Cross-XPU Memory on Apple Silicon]()
   * **USENIX SEC 24**: [DMAAUTH: A Lightweight Pointer Integrity-based Secure Architecture to Defeat DMA Attacks](publications/papers/DMAAuth.pdf)
-  * **ESORICS 24**: [Interp-flow Hijacking: Launching Non-control Data Attack via Hijacking eBPF Interpretation Flow](https://link.springer.com/content/pdf/10.1007/978-3-031-70896-1_10) <span style="color:blue">**Distinguished Paper Award**</span>   
+  * **ESORICS 24** [<span style="color:blue">**Distinguished Paper**</span>]: [Interp-flow Hijacking: Launching Non-control Data Attack via Hijacking eBPF Interpretation Flow](https://link.springer.com/content/pdf/10.1007/978-3-031-70896-1_10)    
   * **Black Hat USA 24**: [PageJack: A Powerful Exploit Technique With Page-Level UAF](https://www.blackhat.com/us-24/briefings/schedule/#pagejack-a-powerful-exploit-technique-with-page-level-uaf-40440)
   * **USENIX SEC 23**: [Demystifying Pointer Authentication on Apple M1](https://www.usenix.org/system/files/usenixsecurity23-cai-zechao.pdf)
   * **USENIX SEC 23**: [A Hybrid Alias Analysis and Its Application to Global Variable Protection in the Linux Kernel](https://www.usenix.org/system/files/usenixsecurity23-li-guoren.pdf)
