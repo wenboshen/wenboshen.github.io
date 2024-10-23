@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: false
 classes: wide
 ---
+  
+2025
+=====
+   * My Model is Malware to You: Transforming AI Models into Malware by Abusing TensorFlow APIs  
+   Ruofan Zhu, Ganhao Chen, Wenbo Shen, Xiaofei Xie, Rui Chang  
+   IEEE Symposium on Security and Privacy 25 [[PDF]]
 
 2024
 =====
