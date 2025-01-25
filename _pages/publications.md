@@ -8,8 +8,20 @@ classes: wide
   
 2025
 =====
+   * Harness: Transparent and Lightweight Protection of Vehicle Control on Untrusted Android Automotive Operating System  
+   Haochen Gong, Siyu Hong, Shenyi Yang, Rui Chang, Wenbo shen, Ziqi Yuan, Chenyang Yu, Yajin Zhou  
+   USENIX Security Symposium 25 [[PDF]]
+
+   * Practical Protection Design of Forward-Edge Control-Flow Integrity for Linux Kernel  
+   Jinmeng Zhou, Ziyue Pan, Xie Xun, Wenbo Shen
+   ICC 25 [[PDF]]
+
+   * Understanding and Detecting Peer Dependency Resolving Loop in npm Ecosystem  
+   Xingyu Wang, MingSen Wang, **Wenbo Shen**, Rui Chang  
+   ICSE 25 [[PDF]]
+
    * My Model is Malware to You: Transforming AI Models into Malware by Abusing TensorFlow APIs  
-   Ruofan Zhu, Ganhao Chen, Wenbo Shen, Xiaofei Xie, Rui Chang  
+   Ruofan Zhu, Ganhao Chen, **Wenbo Shen**, Xiaofei Xie, Rui Chang  
    IEEE Symposium on Security and Privacy 25 [[PDF]]
 
 2024

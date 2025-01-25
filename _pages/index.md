@@ -29,6 +29,7 @@ Dr. Wenbo Shen and his team concentrate on two primary areas. [[Full paper list]
 
 
 - **Container and Software Security**: 1) conducting both static and dynamic analysis to enhance the **security of container and cloud-native systems**; 2) analyzing and securing software dependencies and programming language features to improve **software supply chain security**.
+  * **ICSE 25**: [ Understanding and Detecting Peer Dependency Resolving Loop in npm Ecosystem]()
   * **S&P 25**: [My Model is Malware to You: Transforming AI Models into Malware by Abusing TensorFlow APIs]()
   * **TDSC 24**: [Towards Understanding and Defeating Abstract Resource Attacks for Container Platforms](https://ieeexplore.ieee.org/document/10537099)
   * **ICSE 24**: [ModuleGuard: Understanding and Detecting Module Conflicts in Python Ecosystem]()
