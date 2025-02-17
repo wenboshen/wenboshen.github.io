@@ -8,15 +8,15 @@ classes: wide
 
 Courses
 =====
-* [Computer System III - Fall & Winter 25](https://courses.zju.edu.cn/)
+* [Computer System III - Spring 25](https://courses.zju.edu.cn/)
 
-* [Computer System II - Fall & Winter 21, 24](https://courses.zju.edu.cn/)
+* [Computer System II - Fall 21, 24](https://courses.zju.edu.cn/)
 
-* [Operating Systems (Turing Program 图灵班) - Fall & Winter 21, 22, 23, 24](https://zju-sec.github.io/os23fall-stu/)
+* [Operating Systems (Turing Program 图灵班) - Fall 21, 22, 23, 24](https://zju-sec.github.io/os23fall-stu/)
 
-* [System Security - Summer 22, 23](https://courses.zju.edu.cn/)
+* [System Security - Spring 22, 23](https://courses.zju.edu.cn/)
 
-* [Operating Systems - Fall & Winter 2019, 2020]()
+* [Operating Systems - Fall 2019, 2020]()
 
 
 
