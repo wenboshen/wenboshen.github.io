@@ -8,6 +8,10 @@ classes: wide
   
 2025
 =====
+   * Demystifying Rust Unstable Features at Ecosystem Scale: Evolution, Propagation, and Mitigation  
+   Chenghao Li, Yifei Wu, **Wenbo Shen**, Rui Chang, Chengwei Liu, Yang Liu   
+   IEEE Transactions on Software Engineering 25 [[PDF]]
+
    * Harness: Transparent and Lightweight Protection of Vehicle Control on Untrusted Android Automotive Operating System  
    Haochen Gong, Siyu Hong, Shenyi Yang, Rui Chang, Wenbo shen, Ziqi Yuan, Chenyang Yu, Yajin Zhou  
    USENIX Security Symposium 25 [[PDF]]
