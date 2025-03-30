@@ -8,6 +8,10 @@ classes: wide
   
 2025
 =====
+   * Type-Alias Analysis: Enabling LLVM IR with Accurate Types  
+   Jinmeng Zhou, Ziyue Pan, Wenbo Shen, Xingkai Wang, Kangjie Lu, Zhiyun Qian  
+   ISSTA 25 [[PDF]]
+
    * Demystifying Rust Unstable Features at Ecosystem Scale: Evolution, Propagation, and Mitigation  
    Chenghao Li, Yifei Wu, **Wenbo Shen**, Rui Chang, Chengwei Liu, Yang Liu   
    IEEE Transactions on Software Engineering 25 [[PDF]]

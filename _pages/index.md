@@ -13,6 +13,7 @@ Research
 ======
 Dr. Wenbo Shen and his team concentrate on two primary areas. [[Full paper list](/publications)]
 - **Operating System Kernel Security**: 1) performing **OS kernel analysis** to discover and eliminate new attack surfaces and vulnerabilities; 2) utilizing current hardware capabilities to develop innovative **software-based protection strategies** for the kernel; 3) leveraging software-hardware co-design to create **new hardware features** for system and software security.
+  * **ISSTA 25**: [Type-Alias Analysis: Enabling LLVM IR with Accurate Types ]()
   * **ACM CCS 24**: [CrossFire: Fuzzing macOS Cross-XPU Memory on Apple Silicon]()
   * **USENIX SEC 24**: [DMAAUTH: A Lightweight Pointer Integrity-based Secure Architecture to Defeat DMA Attacks](publications/papers/DMAAuth.pdf)
   * **ESORICS 24** <span style="color:blue">**[Distinguished Paper \(1/535\)]**</span>: [Interp-flow Hijacking: Launching Non-control Data Attack via Hijacking eBPF Interpretation Flow](https://link.springer.com/content/pdf/10.1007/978-3-031-70896-1_10)    
