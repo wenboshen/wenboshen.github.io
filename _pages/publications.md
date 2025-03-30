@@ -9,7 +9,7 @@ classes: wide
 2025
 =====
    * Type-Alias Analysis: Enabling LLVM IR with Accurate Types  
-   Jinmeng Zhou, Ziyue Pan, Wenbo Shen, Xingkai Wang, Kangjie Lu, Zhiyun Qian  
+   Jinmeng Zhou, Ziyue Pan, **Wenbo Shen**, Xingkai Wang, Kangjie Lu, Zhiyun Qian  
    ISSTA 25 [[PDF]]
 
    * Demystifying Rust Unstable Features at Ecosystem Scale: Evolution, Propagation, and Mitigation  
@@ -21,7 +21,7 @@ classes: wide
    USENIX Security Symposium 25 [[PDF]]
 
    * Practical Protection Design of Forward-Edge Control-Flow Integrity for Linux Kernel  
-   Jinmeng Zhou, Ziyue Pan, Xie Xun, Wenbo Shen  
+   Jinmeng Zhou, Ziyue Pan, Xie Xun, **Wenbo Shen**  
    ICC 25 [[PDF]]
 
    * Understanding and Detecting Peer Dependency Resolving Loop in npm Ecosystem  
