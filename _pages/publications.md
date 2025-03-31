@@ -14,7 +14,7 @@ classes: wide
 
    * Demystifying Rust Unstable Features at Ecosystem Scale: Evolution, Propagation, and Mitigation  
    Chenghao Li, Yifei Wu, **Wenbo Shen**, Rui Chang, Chengwei Liu, Yang Liu   
-   IEEE Transactions on Software Engineering 25 [[PDF]]
+   IEEE Transactions on Software Engineering 25 [[PDF]](https://ieeexplore.ieee.org/document/10919478)
 
    * Harness: Transparent and Lightweight Protection of Vehicle Control on Untrusted Android Automotive Operating System  
    Haochen Gong, Siyu Hong, Shenyi Yang, Rui Chang, Wenbo shen, Ziqi Yuan, Chenyang Yu, Yajin Zhou  
@@ -22,21 +22,21 @@ classes: wide
 
    * Practical Protection Design of Forward-Edge Control-Flow Integrity for Linux Kernel  
    Jinmeng Zhou, Ziyue Pan, Xie Xun, **Wenbo Shen**  
-   ICC 25 [[PDF]]
+   ICC 25 [[PDF]]()
 
    * Understanding and Detecting Peer Dependency Resolving Loop in npm Ecosystem  
    Xingyu Wang, MingSen Wang, **Wenbo Shen**, Rui Chang  
-   ICSE 25 [[PDF]]
+   ICSE 25 [[PDF]](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a591/251mFG6W2ic)
 
    * My Model is Malware to You: Transforming AI Models into Malware by Abusing TensorFlow APIs  
    Ruofan Zhu, Ganhao Chen, **Wenbo Shen**, Xiaofei Xie, Rui Chang  
-   IEEE Symposium on Security and Privacy 25 [[PDF]]
+   IEEE Symposium on Security and Privacy 25 [[PDF]](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a012/21B7Q4kpO7e)
 
 2024
 =====
    * CrossFire: Fuzzing macOS Cross-XPU Memory on Apple Silicon  
    Jiaxun Zhu, Minghao Lin, Tingting Yin, Zechao Cai, Yu Wang, Rui Chang, **Wenbo Shen**  
-   ACM CCS 24 [[PDF]]()
+   ACM CCS 24 [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3658644.3690376)
 
    * Interp-flow Hijacking: Launching Non-control Data Attack via Hijacking eBPF Interpretation Flow  
    Qirui Liu, **Wenbo Shen**, Jinmeng Zhou, Zhuoruo Zhang, Jiayi Hu, Shukai Ni, Kangjie Lu and Rui Chang  
@@ -48,7 +48,7 @@ classes: wide
 
    * LightZone: Lightweight Hardware-Assisted In-Process Isolation for ARM64  
    Ziqi Yuan, Siyu Hong, Ruorong Guo, Rui Chang, Mingyu Gao, Wenbo Shen, Yajin Zhou  
-   Middleware 24 [[PDF]]()
+   Middleware 24 [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3652892.3700786)
    <!--- the 50th papers--->
    
    * PageJack: A Powerful Exploit Technique With Page-Level UAF  

@@ -14,14 +14,14 @@ Research
 Dr. Wenbo Shen and his team concentrate on two primary areas. [[Full paper list](/publications)]
 - **Operating System Kernel Security**: 1) performing **OS kernel analysis** to discover and eliminate new attack surfaces and vulnerabilities; 2) utilizing current hardware capabilities to develop innovative **software-based protection strategies** for the kernel; 3) leveraging software-hardware co-design to create **new hardware features** for system and software security.
   * **ISSTA 25**: [Type-Alias Analysis: Enabling LLVM IR with Accurate Types ]()
-  * **ACM CCS 24**: [CrossFire: Fuzzing macOS Cross-XPU Memory on Apple Silicon]()
+  * **ACM CCS 24**: [CrossFire: Fuzzing macOS Cross-XPU Memory on Apple Silicon](https://dl.acm.org/doi/pdf/10.1145/3658644.3690376)
   * **USENIX SEC 24**: [DMAAUTH: A Lightweight Pointer Integrity-based Secure Architecture to Defeat DMA Attacks](publications/papers/DMAAuth.pdf)
   * **ESORICS 24** <span style="color:blue">**[Distinguished Paper \(1/535\)]**</span>: [Interp-flow Hijacking: Launching Non-control Data Attack via Hijacking eBPF Interpretation Flow](https://link.springer.com/content/pdf/10.1007/978-3-031-70896-1_10)    
   * **Black Hat USA 24**: [PageJack: A Powerful Exploit Technique With Page-Level UAF](https://www.blackhat.com/us-24/briefings/schedule/#pagejack-a-powerful-exploit-technique-with-page-level-uaf-40440)
   * **USENIX SEC 23**: [Demystifying Pointer Authentication on Apple M1](https://www.usenix.org/system/files/usenixsecurity23-cai-zechao.pdf)
   * **USENIX SEC 23**: [A Hybrid Alias Analysis and Its Application to Global Variable Protection in the Linux Kernel](https://www.usenix.org/system/files/usenixsecurity23-li-guoren.pdf)
   * **Black Hat USA 23**: [Apple PAC, Four Years Later: Reverse Engineering the Customized Pointer Authentication Hardware Implementation on Apple M1](https://www.blackhat.com/us-23/briefings/schedule/#apple-pac-four-years-later-reverse-engineering-the-customized-pointer-authentication-hardware-implementation-on-apple-m-32824)
-  * **TDSC 23**: [kCPA: Towards Sensitive Pointer Full Life Cycle Authentication for OS Kernels]()
+  * **TDSC 23**: [kCPA: Towards Sensitive Pointer Full Life Cycle Authentication for OS Kernels](https://ieeexplore.ieee.org/document/10330138)
   * **TDSC 22**: [Automatic Permission Check Analysis for Linux Kernel](publications/papers/tdsc22.pdf)
   * **DAC 22**: [RegVault: Hardware Assisted Selective Data Randomization for Operating System Kernels](publications/papers/regvault-dac22.pdf)
   * **USENIX SEC 19**: [PeX: A Permission Check Analysis Framework for Linux Kernel](https://www.usenix.org/system/files/sec19-zhang-tong.pdf)
@@ -30,12 +30,12 @@ Dr. Wenbo Shen and his team concentrate on two primary areas. [[Full paper list]
 
 
 - **Container and Software Security**: 1) conducting both static and dynamic analysis to enhance the **security of container and cloud-native systems**; 2) analyzing and securing software dependencies and programming language features to improve **software supply chain security**.
-  * **TSE 25**: [Demystifying Rust Unstable Features at Ecosystem Scale: Evolution, Propagation, and Mitigation]()
-  * **ICSE 25**: [Understanding and Detecting Peer Dependency Resolving Loop in npm Ecosystem]()
-  * **S&P 25**: [My Model is Malware to You: Transforming AI Models into Malware by Abusing TensorFlow APIs]()
+  * **TSE 25**: [Demystifying Rust Unstable Features at Ecosystem Scale: Evolution, Propagation, and Mitigation](https://ieeexplore.ieee.org/document/10919478)
+  * **ICSE 25**: [Understanding and Detecting Peer Dependency Resolving Loop in npm Ecosystem](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a591/251mFG6W2ic)
+  * **S&P 25**: [My Model is Malware to You: Transforming AI Models into Malware by Abusing TensorFlow APIs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a012/21B7Q4kpO7e)
   * **TDSC 24**: [Towards Understanding and Defeating Abstract Resource Attacks for Container Platforms](https://ieeexplore.ieee.org/document/10537099)
-  * **ICSE 24**: [ModuleGuard: Understanding and Detecting Module Conflicts in Python Ecosystem]()
-  * **ICSE 24**: [Demystifying Compiler Unstable Feature Usage and Impacts in the Rust Ecosystem]()
+  * **ICSE 24**: [ModuleGuard: Understanding and Detecting Module Conflicts in Python Ecosystem](https://dl.acm.org/doi/abs/10.1145/3597503.3639221)
+  * **ICSE 24**: [Demystifying Compiler Unstable Feature Usage and Impacts in the Rust Ecosystem](https://dl.acm.org/doi/abs/10.1145/3597503.3623352)
   * **ACM CCS 23**: [Take Over the Whole Cluster: Attacking Kubernetes via Excessive Permissions of Third-party Applications](https://dl.acm.org/doi/10.1145/3576915.3623121)
   * **USENIX SEC 23**: [Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding](https://www.usenix.org/conference/usenixsecurity23/presentation/xiaojietao)
   * **TDSC 23**: [Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines](https://ieeexplore.ieee.org/document/10061526/)
