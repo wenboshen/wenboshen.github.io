@@ -9,7 +9,8 @@ classes: wide
 2025
 =====
    * RegVault II: Achieving Hardware-Assisted Selective Kernel Data Randomization for Multiple Architectures  
-   Ruorong Guo, Yangye Zhou, Jinyan Xu, Wenbo Shen, Yajin Zhou, Rui Chang
+   Ruorong Guo, Yangye Zhou, Jinyan Xu, **Wenbo Shen**, Yajin Zhou, Rui Chang  
+   ACM Transactions on Computer Systems (TOCS) [[PDF]]
 
    * Type-Alias Analysis: Enabling LLVM IR with Accurate Types  
    Jinmeng Zhou, Ziyue Pan, **Wenbo Shen**, Xingkai Wang, Kangjie Lu, Zhiyun Qian  
