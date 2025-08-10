@@ -8,9 +8,16 @@ classes: wide
   
 2025
 =====
+   * DejaVuzz: Disclosing Transient Execution 
+Bugs with Dynamic Swappable Memory and Differential Information Flow 
+Tracking assisted Processor Fuzzing  
+   Jinyan Xu, Yangye Zhou, Xingzhi Zhang, Yinshuai Li, Qinhan Tan, Yinqian Zhang, Yajin Zhou, Rui Chang, Wenbo Shen  
+   ASPLOS 25 [[PDF]]
+
    * RegVault II: Achieving Hardware-Assisted Selective Kernel Data Randomization for Multiple Architectures  
    Ruorong Guo, Yangye Zhou, Jinyan Xu, **Wenbo Shen**, Yajin Zhou, Rui Chang  
    ACM Transactions on Computer Systems (TOCS) [[PDF]]
+   <!--- the 60th papers--->
 
    * Type-Alias Analysis: Enabling LLVM IR with Accurate Types  
    Jinmeng Zhou, Ziyue Pan, **Wenbo Shen**, Xingkai Wang, Kangjie Lu, Zhiyun Qian  
