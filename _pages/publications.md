@@ -14,6 +14,10 @@ Tracking assisted Processor Fuzzing
    Jinyan Xu, Yangye Zhou, Xingzhi Zhang, Yinshuai Li, Qinhan Tan, Yinqian Zhang, Yajin Zhou, Rui Chang, Wenbo Shen  
    ASPLOS 25 [[PDF]]
 
+   * Portal: Enabling Accurate Siemens PLC Rehosting via Peripheral Synthesis and Proactive Interrupt Synchronization  
+   Haoran Li, Dakun Shen, Wenbo Shen, Zhen Zhu  
+   RAID 25
+
    * RegVault II: Achieving Hardware-Assisted Selective Kernel Data Randomization for Multiple Architectures  
    Ruorong Guo, Yangye Zhou, Jinyan Xu, **Wenbo Shen**, Yajin Zhou, Rui Chang  
    ACM Transactions on Computer Systems (TOCS) [[PDF]]
