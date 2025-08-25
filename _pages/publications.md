@@ -8,6 +8,10 @@ classes: wide
   
 2025
 =====
+   * Dangers Behind Access Control: Understanding and Exploiting Implicit Permissions in Kubernetes  
+   Nanzi Yang, Xingyu Liu, Wenbo Shen, Jinku Li, Kangjie Lu  
+   ACM CCS 25
+
    * DejaVuzz: Disclosing Transient Execution 
 Bugs with Dynamic Swappable Memory and Differential Information Flow 
 Tracking assisted Processor Fuzzing  
