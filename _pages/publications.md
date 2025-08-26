@@ -24,12 +24,12 @@ Tracking assisted Processor Fuzzing
 
    * RegVault II: Achieving Hardware-Assisted Selective Kernel Data Randomization for Multiple Architectures  
    Ruorong Guo, Yangye Zhou, Jinyan Xu, **Wenbo Shen**, Yajin Zhou, Rui Chang  
-   ACM Transactions on Computer Systems (TOCS) [[PDF]]
+   ACM Transactions on Computer Systems (TOCS) [[PDF]](https://dl.acm.org/doi/10.1145/3734521)
    <!--- the 60th papers--->
 
    * Type-Alias Analysis: Enabling LLVM IR with Accurate Types  
    Jinmeng Zhou, Ziyue Pan, **Wenbo Shen**, Xingkai Wang, Kangjie Lu, Zhiyun Qian  
-   ISSTA 25 [[PDF]]
+   ISSTA 25 [[PDF]](https://dl.acm.org/doi/10.1145/3728974)
 
    * Demystifying Rust Unstable Features at Ecosystem Scale: Evolution, Propagation, and Mitigation  
    Chenghao Li, Yifei Wu, **Wenbo Shen**, Rui Chang, Chengwei Liu, Yang Liu   
@@ -37,7 +37,7 @@ Tracking assisted Processor Fuzzing
 
    * Harness: Transparent and Lightweight Protection of Vehicle Control on Untrusted Android Automotive Operating System  
    Haochen Gong, Siyu Hong, Shenyi Yang, Rui Chang, Wenbo shen, Ziqi Yuan, Chenyang Yu, Yajin Zhou  
-   USENIX Security Symposium 25 [[PDF]]
+   USENIX Security Symposium 25 [[PDF]](https://www.usenix.org/system/files/usenixsecurity25-gong-haochen.pdf)
 
    * Practical Protection Design of Forward-Edge Control-Flow Integrity for Linux Kernel  
    Jinmeng Zhou, Ziyue Pan, Xie Xun, **Wenbo Shen**  
