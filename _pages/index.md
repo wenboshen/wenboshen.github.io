@@ -6,12 +6,12 @@ excerpt: "Index"
 author_profile: true
 classes: wide
 ---
-Dr. Wenbo Shen is a ZJU100 Young Professor at [Zhejiang University](https://www.zju.edu.cn/). 
+Dr. Wenbo Shen is a tenured associate professor at [Zhejiang University](https://www.zju.edu.cn/). 
 His research interests are operating system security, container security, and software supply chain security. He has published over 60 research papers at top-tier academic conferences. Dr. Wenbo Shen is a recipient of four distinguished paper awards ([ESORICS 24](https://esorics2024.org/accepted_papers-en), [ACSAC 22](https://www.acsac.org/archive/), [AsiaCCS 17](https://asiaccs2017.trust-sysec.com/program/distinguished-papers/),  [NDSS 16](https://www.internetsociety.org/blog/2016/02/ndss-2016-grants-distinguished-papers-awards/)). His research work on [Real-time Kernel Protection (RKP)](https://docs.samsungknox.com/admin/fundamentals/whitepaper/core-platform-security/real-time-kernel-protection/) has been deployed on hundreds of millions of devices.
 
 Research
 ======
-Dr. Wenbo Shen and his team concentrate on two primary areas. [[Full paper list](/publications)]
+Dr. Wenbo Shen and his research team concentrate on two primary areas. [[Full paper list](/publications)]
 - **Operating System Kernel Security**: 1) performing **OS kernel analysis** to discover and eliminate new attack surfaces and vulnerabilities; 2) utilizing current hardware capabilities to develop innovative **software-based protection strategies** for the kernel; 3) leveraging software-hardware co-design to create **new hardware features** for system and software security.
   * **TOCS 25**: [RegVault II: Achieving Hardware-Assisted Selective Kernel Data Randomization for Multiple Architectures](https://dl.acm.org/doi/10.1145/3734521)
   * **ISSTA 25**: [Type-Alias Analysis: Enabling LLVM IR with Accurate Types ](https://dl.acm.org/doi/10.1145/3728974)
@@ -46,7 +46,8 @@ Dr. Wenbo Shen and his team concentrate on two primary areas. [[Full paper list]
 
 Background
 ======
-- 2019 -  Now, Zhejiang University (China), College of Computer Science and Technology, ZJU100 Professor
+- 2025 - Now, Zhejiang University (China), College of Computer Science and Technology, Tenured Associate Professor
+- 2019 - 2025, Zhejiang University (China), College of Computer Science and Technology, Assistant Professor
 - 2015 - 2019, Samsung Research America (USA), Tech Lead of Real-time Kernel Protection (RKP)
 - 2010 - 2015, North Carolina State University (USA), Ph.D of Computer Science
 - 2006 - 2010, Harbin Institute of Technology (China), B.Eng of Software Engineering
