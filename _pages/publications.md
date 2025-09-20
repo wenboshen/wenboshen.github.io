@@ -5,9 +5,22 @@ permalink: /publications/
 author_profile: false
 classes: wide
 ---
-  
+
+
+2026
+=====
+   * Demystifying and Exploiting ASLR on NVIDIA GPUs  
+   Ruofan Zhu, Ganhao Chen, **Wenbo Shen**, Lyuye Zhang, Dakun Shen, Rui Chang, Yanan Guo  
+   IEEE Symposium on Security and Privacy 26
+
+
 2025
 =====
+   * Flow Hijacking in eBPF: Exploitation and Mitigation Across both Interpreter and JIT Execution  
+   Yifei Wu, Qirui Liu, **Wenbo Shen**, Zhuoruo Zhang, Jiayi Hu, Rui
+Chang  
+International Journal of Information Security 25
+
    * Dangers Behind Access Control: Understanding and Exploiting Implicit Permissions in Kubernetes  
    Nanzi Yang, Xingyu Liu, Wenbo Shen, Jinku Li, Kangjie Lu  
    ACM CCS 25
