@@ -13,7 +13,6 @@ classes: wide
    Ruofan Zhu, Ganhao Chen, **Wenbo Shen**, Lyuye Zhang, Dakun Shen, Rui Chang, Yanan Guo  
    IEEE Symposium on Security and Privacy 26
 
-
 2025
 =====
    * Flow Hijacking in eBPF: Exploitation and Mitigation Across both Interpreter and JIT Execution  
