@@ -10,7 +10,7 @@ Courses
 =====
 * [Computer System III - Spring 25](https://courses.zju.edu.cn/)
 
-* [Computer System II - Fall 21, 24](https://courses.zju.edu.cn/)
+* [Computer System II - Fall 21, 24, 25](https://courses.zju.edu.cn/)
 
 * [Operating Systems (Turing Program 图灵班) - Fall 21, 22, 23, 24](https://zju-sec.github.io/os23fall-stu/)
 
