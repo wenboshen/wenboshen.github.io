@@ -21,6 +21,12 @@ classes: wide
    Yue Liu, Zexiang Zhang, Jiaxun Zhu, Hao Zheng, Jiaqing Huang, Wenbo Shen, Gaoning Pan, Yuliang Lu, Min Zhang, Zulie Pan, Guang Cheng  
    NDSS 26
 
+   * M1Pecker: A Dynamic Analysis Framework for Pointer Authentication in Apple M1 Chips  
+   Yue Liu, Zexiang Zhang, Jiaxun Zhu, Hao Zheng, Jiaqing Huang, Wenbo Shen, Gaoning Pan, Yuliang Lu, Min Zhang, Zulie Pan, Guang Cheng  
+   NDSS 26
+
+
+
 2025
 =====
    * Flow Hijacking in eBPF: Exploitation and Mitigation Across both Interpreter and JIT Execution  
