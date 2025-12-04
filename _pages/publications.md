@@ -21,18 +21,16 @@ classes: wide
    Yue Liu, Zexiang Zhang, Jiaxun Zhu, Hao Zheng, Jiaqing Huang, Wenbo Shen, Gaoning Pan, Yuliang Lu, Min Zhang, Zulie Pan, Guang Cheng  
    NDSS 26
 
-   * M1Pecker: A Dynamic Analysis Framework for Pointer Authentication in Apple M1 Chips  
-   Yue Liu, Zexiang Zhang, Jiaxun Zhu, Hao Zheng, Jiaqing Huang, Wenbo Shen, Gaoning Pan, Yuliang Lu, Min Zhang, Zulie Pan, Guang Cheng  
-   NDSS 26
-
-
-
 2025
 =====
+   * M1Pecker: A Dynamic Analysis Framework for Pointer Authentication in Apple M1 Chips    
+   Jiaxun Zhu, Zechao Cai, **Wenbo Shen**, Yutian Yang, and Rui Chang  
+   TDSC 26
+
    * Flow Hijacking in eBPF: Exploitation and Mitigation Across both Interpreter and JIT Execution  
    Yifei Wu, Qirui Liu, **Wenbo Shen**, Zhuoruo Zhang, Jiayi Hu, Rui
 Chang  
-International Journal of Information Security 25
+   International Journal of Information Security 25
 
    * Dangers Behind Access Control: Understanding and Exploiting Implicit Permissions in Kubernetes  
    Nanzi Yang, Xingyu Liu, Wenbo Shen, Jinku Li, Kangjie Lu  
