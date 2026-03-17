@@ -22,7 +22,7 @@ classes: wide
    NDSS 26 [[PDF]](https://www.ndss-symposium.org/ndss-paper/demystifying-the-access-control-mechanism-of-esxi-vmkernel/)
 
    * Beyond Control: Exploring Novel File System Objects for Data-Only Attacks on Linux Systems  
-   Jinmeng Zhou, Ziyue Pan, Jiayi Hu, Jiaxun Zhu, Wenbo Shen, Rui Chang, Guoren Li, Zhiyun Qian  
+   Jinmeng Zhou, Ziyue Pan, Jiayi Hu, Jiaxun Zhu, **Wenbo Shen**, Rui Chang, Guoren Li, Zhiyun Qian  
    TDSC 26 [[PDF]]()
 
 2025
