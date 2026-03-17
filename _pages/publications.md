@@ -11,36 +11,37 @@ classes: wide
 =====
    * Demystifying and Exploiting ASLR on NVIDIA GPUs  
    Ruofan Zhu, Ganhao Chen, **Wenbo Shen**, Lyuye Zhang, Dakun Shen, Rui Chang, Yanan Guo  
-   IEEE Symposium on Security and Privacy 26
+   IEEE Symposium on Security and Privacy 26 [[PDF]](https://www.computer.org/csdl/proceedings-article/sp/2026/606500b448/2bojw97v8xa)
 
    * PhantomMap: GPU-Assisted Kernel Exploitation  
-   Jiayi Hu, Qi Tang, Xingkai Wang, Jinmeng Zhou, Rui Chang, **Wenbo Shen**  
+   Jiayi Hu, Qi Tang, Xingkai Wang, Jinmeng Zhou, Rui Chang, **Wenbo Shen**  [[PDF]](https://www.ndss-symposium.org/ndss-paper/phantommap-gpu-assisted-kernel-exploitation/)
    NDSS 26
 
    * Demystifying the Access Control Mechanism of ESXi VMKernel  
    Yue Liu, Zexiang Zhang, Jiaxun Zhu, Hao Zheng, Jiaqing Huang, Wenbo Shen, Gaoning Pan, Yuliang Lu, Min Zhang, Zulie Pan, Guang Cheng  
-   NDSS 26
+   NDSS 26 [[PDF]](https://www.ndss-symposium.org/ndss-paper/demystifying-the-access-control-mechanism-of-esxi-vmkernel/)
+
+   * Beyond Control: Exploring Novel File System Objects for Data-Only Attacks on Linux Systems  
+   Jinmeng Zhou, Ziyue Pan, Jiayi Hu, Jiaxun Zhu, Wenbo Shen, Rui Chang, Guoren Li, Zhiyun Qian  
+   TDSC 26 [[PDF]]()
 
 2025
 =====
    * M1Pecker: A Dynamic Analysis Framework for Pointer Authentication in Apple M1 Chips    
    Jiaxun Zhu, Zechao Cai, **Wenbo Shen**, Yutian Yang, and Rui Chang  
-   TDSC 26
+   TDSC 26 [[PDF]](https://ieeexplore.ieee.org/document/11248954)
 
    * Flow Hijacking in eBPF: Exploitation and Mitigation Across both Interpreter and JIT Execution  
-   Yifei Wu, Qirui Liu, **Wenbo Shen**, Zhuoruo Zhang, Jiayi Hu, Rui
-Chang  
-   International Journal of Information Security 25
+   Yifei Wu, Qirui Liu, **Wenbo Shen**, Zhuoruo Zhang, Jiayi Hu, Rui Chang  
+   International Journal of Information Security 25 [[PDF]](https://link.springer.com/article/10.1007/s10207-025-01124-x)
 
    * Dangers Behind Access Control: Understanding and Exploiting Implicit Permissions in Kubernetes  
    Nanzi Yang, Xingyu Liu, Wenbo Shen, Jinku Li, Kangjie Lu  
-   ACM CCS 25
+   ACM CCS 25 [[PDF]](https://dl.acm.org/doi/10.1145/3719027.3765106)
 
-   * DejaVuzz: Disclosing Transient Execution 
-Bugs with Dynamic Swappable Memory and Differential Information Flow 
-Tracking assisted Processor Fuzzing  
+   * DejaVuzz: Disclosing Transient Execution Bugs with Dynamic Swappable Memory and Differential Information Flow Tracking assisted Processor Fuzzing  
    Jinyan Xu, Yangye Zhou, Xingzhi Zhang, Yinshuai Li, Qinhan Tan, Yinqian Zhang, Yajin Zhou, Rui Chang, Wenbo Shen  
-   ASPLOS 25 [[PDF]]
+   ASPLOS 25 [[PDF]](https://dl.acm.org/doi/10.1145/3676642.3736115)
 
    * RegVault II: Achieving Hardware-Assisted Selective Kernel Data Randomization for Multiple Architectures  
    Ruorong Guo, Yangye Zhou, Jinyan Xu, **Wenbo Shen**, Yajin Zhou, Rui Chang  
@@ -61,7 +62,7 @@ Tracking assisted Processor Fuzzing
 
    * Practical Protection Design of Forward-Edge Control-Flow Integrity for Linux Kernel  
    Jinmeng Zhou, Ziyue Pan, Xie Xun, **Wenbo Shen**  
-   ICC 25 [[PDF]]()
+   ICC 25 [[PDF]](https://ieeexplore.ieee.org/document/11161046)
 
    * Understanding and Detecting Peer Dependency Resolving Loop in npm Ecosystem  
    Xingyu Wang, MingSen Wang, **Wenbo Shen**, Rui Chang  

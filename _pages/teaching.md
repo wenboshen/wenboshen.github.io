@@ -8,7 +8,7 @@ classes: wide
 
 Courses
 =====
-* [Computer System III - Spring 25](https://courses.zju.edu.cn/)
+* [Computer System III - Spring 25, 26](https://courses.zju.edu.cn/)
 
 * [Computer System II - Fall 21, 24, 25](https://courses.zju.edu.cn/)
 
