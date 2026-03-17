@@ -35,7 +35,7 @@ Dr. Wenbo Shen and his research team concentrate on two primary areas. [[Full pa
 
 
 - **Container and Software Security**: 1) conducting both static and dynamic analysis to enhance the **security of container and cloud-native systems**; 2) analyzing and securing software dependencies and programming language features to improve **software supply chain security**.
-  * **ACM CCS 25**: [Dangers Behind Access Control: Understanding and Exploiting Implicit Permissions in Kubernetes]()
+  * **ACM CCS 25**: [Dangers Behind Access Control: Understanding and Exploiting Implicit Permissions in Kubernetes](https://dl.acm.org/doi/10.1145/3719027.3765106)
   * **TSE 25**: [Demystifying Rust Unstable Features at Ecosystem Scale: Evolution, Propagation, and Mitigation](https://ieeexplore.ieee.org/document/10919478)
   * **ICSE 25**: [Understanding and Detecting Peer Dependency Resolving Loop in npm Ecosystem](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a591/251mFG6W2ic)
   * **S&P 25**: [My Model is Malware to You: Transforming AI Models into Malware by Abusing TensorFlow APIs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a012/21B7Q4kpO7e)

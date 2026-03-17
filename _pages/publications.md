@@ -14,8 +14,8 @@ classes: wide
    IEEE Symposium on Security and Privacy 26 [[PDF]](https://www.computer.org/csdl/proceedings-article/sp/2026/606500b448/2bojw97v8xa)
 
    * PhantomMap: GPU-Assisted Kernel Exploitation  
-   Jiayi Hu, Qi Tang, Xingkai Wang, Jinmeng Zhou, Rui Chang, **Wenbo Shen**  [[PDF]](https://www.ndss-symposium.org/ndss-paper/phantommap-gpu-assisted-kernel-exploitation/)
-   NDSS 26
+   Jiayi Hu, Qi Tang, Xingkai Wang, Jinmeng Zhou, Rui Chang, **Wenbo Shen**  
+   NDSS 26 [[PDF]](https://www.ndss-symposium.org/ndss-paper/phantommap-gpu-assisted-kernel-exploitation/)
 
    * Demystifying the Access Control Mechanism of ESXi VMKernel  
    Yue Liu, Zexiang Zhang, Jiaxun Zhu, Hao Zheng, Jiaqing Huang, Wenbo Shen, Gaoning Pan, Yuliang Lu, Min Zhang, Zulie Pan, Guang Cheng  
