@@ -42,6 +42,7 @@ classes: wide
    * DejaVuzz: Disclosing Transient Execution Bugs with Dynamic Swappable Memory and Differential Information Flow Tracking assisted Processor Fuzzing  
    Jinyan Xu, Yangye Zhou, Xingzhi Zhang, Yinshuai Li, Qinhan Tan, Yinqian Zhang, Yajin Zhou, Rui Chang, Wenbo Shen  
    ASPLOS 25 [[PDF]](https://dl.acm.org/doi/10.1145/3676642.3736115)
+   <!---40th CCF A---->
 
    * RegVault II: Achieving Hardware-Assisted Selective Kernel Data Randomization for Multiple Architectures  
    Ruorong Guo, Yangye Zhou, Jinyan Xu, **Wenbo Shen**, Yajin Zhou, Rui Chang  
@@ -99,7 +100,6 @@ classes: wide
    Jinmeng Zhou, Jiayi Hu, Wenbo Shen, Zhiyun Qian  
    Phrack Magazine [[Link]](https://phrack.org/issues/71/13.html#article)
 
-
    * Automated Data Binding Vulnerability Detection for Java Web Frameworks via Nested Property Graph  
    Xiaoyong Yan, Biao He, **Wenbo Shen**, Yu Ouyang, Kaihang Zhou, Xingjian Zhang, Xingyu Wang, Yukai Cao, Rui Chang  
    ISSTA 24[[PDF]](https://2024.issta.org/details/issta-2024-papers/110/Automated-Data-Binding-Vulnerability-Detection-for-Java-Web-Frameworks-via-Nested-Pro)
@@ -107,6 +107,7 @@ classes: wide
    * Bugs in Pods: Understanding Bugs in Container Runtime Systems  
    Jiongchi Yu, Xiaofei Xie, Cen Zhang, Sen Chen, Yuekang Li, Wenbo Shen  
    ISSTA 24[[PDF]](https://2024.issta.org/details/issta-2024-papers/109/Bugs-in-Pods-Understanding-Bugs-in-Container-Runtime-Systems)
+   <!---30th CCF A--->
 
    * Atlas: Automating Cross-Language Fuzzing on Android Closed-Source Libraries  
    Hao Xiong, Qinming Dai, Rui Chang, Mingran Qiu, Renxiang Wang, Wenbo Shen, Yajin Zhou  
@@ -206,18 +207,24 @@ Kui Ren
    * Security Challenges in the Container Cloud  
    Yutian Yang, **Wenbo Shen**, Bonan Ruan, Wenmao Liu, Kui Ren  
    IEEE TPS 21 [[PDF]](papers/TPS21.pdf)
+
    * Demons in the Shared Kernel: Abstract Resource Attacks Against OS-level Virtualization  
    Nanzi Yang, **Wenbo Shen**, Jinku Li, Yutian Yang, Kangjie Lu, Jietao Xiao, Tianyu Zhou, Chenggang Qin, Wang Yu, Jianfeng Ma, Kui Ren  
    ACM CCS 21 [[PDF]](papers/LogicalDoS.pdf)
+   <!--10th CCF-A -->
+
    * FirmGuide: Boosting the Capability of Rehosting Embedded Linux Kernels through Model-Guided Kernel Execution  
     Qiang Liu, Cen Zhang, Lin Ma, Muhui Jiang, Yajin Zhou, Lei Wu, Wenbo Shen, Xiapu Luo, Yang Liu, Kui Ren  
     In ASE 2021 [[PDF]](https://yajin.org/papers/ase21_firmguide.pdf)
+
    * Practical Struct-Field based Forward-Edge Control-Flow Integrity for Kernel  
     Jinmeng Zhou, **Wenbo Shen**, Xun Xie, Jiadong Sun, Kui Ren  
     In AsiaCCS 21 [Poster] [Full Version]
+
    * Revisiting Challenges for Selective Data Protection of Real Applications  
     Lin Ma, Jinyan Xu, Jiadong Sun, Yajin Zhou, Xun Xie, Wenbo Shen, Rui Chang, Kui Ren  
     In ApSys 21 [[PDF]](https://yajin.org/papers/apsys21_memtag.pdf)
+
    * KALD: Detecting Direct Pointer Disclosure Vulnerabilities  
    Brian Belleville, Wenbo Shen, Stijn Volckaert, Ahmed M. Azab, and Michael Franz  
    In the Transactions on Dependable and Secure Computing (TDSC) [[PDF]](papers/kald.pdf)
@@ -227,9 +234,11 @@ Kui Ren
    * ARM Pointer Authentication based Forward-Edge and Backward-Edge Control Flow Integrity for Kernels  
     Yutian Yang, Songbo Zhu, **Wenbo Shen**, Yajin Zhou, Jiadong Sun, Kui Ren  
     In arxiv [[PDF](https://arxiv.org/abs/1912.10666)]
+
    * Docker 组件间标准输入输出复制的 DoS 攻击分析  
    周天昱，**申文博**，杨男子，李金库，秦承刚，喻望  
    网络与信息安全学报 2020 [[PDF]](http://www.infocomm-journal.com/cjnis/CN/10.11959/j.issn.2096-109x.2020074)
+
    * PESC: A Per System-Call Stack Canary Design for Linux Kernel  
     Jiadong Sun, Xia  Zhou, **Wenbo Shen**, Yajin Zhou, Kui Ren  
     In CODASPY 20 [[PDF]](papers/PESC.pdf)
@@ -237,9 +246,11 @@ Kui Ren
    * PeX: A Permission Check Analysis Framework for Linux Kernel  
    Tong Zhang, **Wenbo Shen**, Dongyoon Lee, Changhee Jung, Ahmed Azab, Ruowen Wang  
    In USENIX Security 19 [[PDF]](https://www.usenix.org/system/files/sec19-zhang-tong.pdf)
+
    * PTrix: Efficient Hardware-Assisted Fuzzing for COTS Binary  
    Yaohui Chen, Dongliang Mu, Jun Xu, Zhichuang Sun, Wenbo Shen, Xinyu Xing, Long Lu, Bing Mao  
    In AsiaCCS 19 [[PDF]](https://arxiv.org/pdf/1905.10499.pdf)
+
    * Trustworthy Authentication for IoT with Human-and-Environment-in-the-Loop  
    Jinsong Han, Feng Lin, Wenbo Shen, Kui Ren  
    In SocialSens@CPSIoTWeek
@@ -281,26 +292,17 @@ Kui Ren
    In 2014 IEEE Conference on Communications and Network Security Workshop on Physical-layer Methods for Wireless Security, 2014 [[PDF]](http://www4.ncsu.edu/~hdai/CNS14-WKSP-WS-final.pdf)
 
    * An Open Source Web-Mapping System for Tourism Planning and Marketing  
-   Stacy Supak, Hugh Devine, Gene Brothers, Samantha Rich and **Wenbo Shen**  
+   Stacy Supak, Hugh Devine, Gene Brothers, Samantha Rich and Wenbo Shen 
    The Journal of Travel and Tourism Marketing, 2014
 
    * Where Are You From? Confusing Location Distinction Using Virtual Multipath Camouflage  
-   Song Fang, Yao Liu, **Wenbo Shen**, and Haojin Zhu  
+   Song Fang, Yao Liu, Wenbo Shen, and Haojin Zhu  
    In Annual International Conference on Mobile Computing and Networking (MobiCom'14), 2014, [[PDF]](http://www.csee.usf.edu/~yliu21/webresources/?n=pdf/com078-Fang.pdf)
 
    * Is Link Signature Dependable for Wireless Security?  
-   Xiaofan He, Huaiyu Dai, **Wenbo Shen**, and Peng Ning  
+   Xiaofan He, Huaiyu Dai, Wenbo Shen, and Peng Ning  
    In IEEE International Conference on Computer Communications (INFOCOM) Mini-Conference, 2013 [[PDF]](http://www4.ncsu.edu/~hdai/Infocom13-mini-XH.pdf)
 
    * Ally Friendly Jamming: How to Jam Your Enemy and Maintain Your Own Wireless Connectivity at the Same Time  
    **Wenbo Shen**, Peng Ning, Xiaofan He, and Huaiyu Dai  
    In the IEEE Symposium on Security and Privacy (S&P '13), San Francisco, CA, 2013 [[PDF]](https://people.engr.ncsu.edu/hdai/Oakland13.pdf)
-
-## Patents
-   * Method and apparatus for protecting kernel control-flow integrity using static binary instrumentation, US 2017/0140148, 2017 [[PDF]](https://patents.google.com/patent/US20170140148A1/en)
-   * Apparatus and method for protection of critical embedded system components via hardware-isolated secure element-based monitor，US 2017/0098070, 2017 [[[PDF]](https://patents.google.com/patent/US20170098070A1/en)
-   * Apparatus and method for transparent, secure element-based mediation of on-board diagnostic operations，US 2017/0041290 A1, 2017 [[PDF]](https://patents.google.com/patent/US20170041290A1/en)
-   * Methods and apparatus to enable runtime checksum verification of block device images，US 2016/0092701, 2016 [[PDF]](https://patents.google.com/patent/US20160092701A1/en)
-
-
-
