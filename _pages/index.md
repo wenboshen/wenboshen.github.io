@@ -21,7 +21,7 @@ Dr. Wenbo Shen and his research team concentrate on two primary areas. [[Full pa
   * **ISSTA 25**: [Type-Alias Analysis: Enabling LLVM IR with Accurate Types ](https://dl.acm.org/doi/10.1145/3728974)
   * **ACM CCS 24**: [CrossFire: Fuzzing macOS Cross-XPU Memory on Apple Silicon](https://dl.acm.org/doi/pdf/10.1145/3658644.3690376)
   * **USENIX SEC 24**: [DMAAUTH: A Lightweight Pointer Integrity-based Secure Architecture to Defeat DMA Attacks](publications/papers/DMAAuth.pdf)
-  * **ESORICS 24** <span style="color:blue">**[Distinguished Paper Award\(1/535\)]**</span>: [Interp-flow Hijacking: Launching Non-control Data Attack via Hijacking eBPF Interpretation Flow](https://link.springer.com/content/pdf/10.1007/978-3-031-70896-1_10)    
+  * **ESORICS 24** <span style="color:blue">**[Distinguished Paper Award]**</span>: [Interp-flow Hijacking: Launching Non-control Data Attack via Hijacking eBPF Interpretation Flow](https://link.springer.com/content/pdf/10.1007/978-3-031-70896-1_10)    
   * **Black Hat USA 24**: [PageJack: A Powerful Exploit Technique With Page-Level UAF](https://www.blackhat.com/us-24/briefings/schedule/#pagejack-a-powerful-exploit-technique-with-page-level-uaf-40440)
   * **USENIX SEC 23**: [Demystifying Pointer Authentication on Apple M1](https://www.usenix.org/system/files/usenixsecurity23-cai-zechao.pdf)
   * **USENIX SEC 23**: [A Hybrid Alias Analysis and Its Application to Global Variable Protection in the Linux Kernel](https://www.usenix.org/system/files/usenixsecurity23-li-guoren.pdf)
@@ -45,7 +45,7 @@ Dr. Wenbo Shen and his research team concentrate on two primary areas. [[Full pa
   * **ACM CCS 23**: [Take Over the Whole Cluster: Attacking Kubernetes via Excessive Permissions of Third-party Applications](https://dl.acm.org/doi/10.1145/3576915.3623121)
   * **USENIX SEC 23**: [Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding](https://www.usenix.org/conference/usenixsecurity23/presentation/xiaojietao)
   * **TDSC 23**: [Ambush from All Sides: Understanding Security Threats in Open-Source Software CI/CD Pipelines](https://ieeexplore.ieee.org/document/10061526/)
-  * **ACSAC 22** <span style="color:blue">**[Distinguished Paper Award\(3/303\)]**</span>: [Making Memory Account Accountable: Analyzing and Detecting Memory Missing-account bugs for Container Platforms](publications/papers/memcg.pdf)  
+  * **ACSAC 22** <span style="color:blue">**[Distinguished Paper Award]**</span>: [Making Memory Account Accountable: Analyzing and Detecting Memory Missing-account bugs for Container Platforms](publications/papers/memcg.pdf)  
   * **ACM CCS 21**: [Demons in the Shared Kernel: Abstract Resource Attacks Against OS-level Virtualization, ACM CCS 2021](publications/papers/LogicalDoS.pdf)
 
 Background
