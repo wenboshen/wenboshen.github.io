@@ -7,13 +7,13 @@ author_profile: true
 classes: wide
 ---
 Dr. Wenbo Shen is a tenured associate professor at [Zhejiang University](https://www.zju.edu.cn/). 
-His research interests are operating system security, container security, and software supply chain security. He has published over 60 research papers at top-tier academic conferences. Dr. Wenbo Shen is a recipient of four distinguished paper awards ([ESORICS 24](https://esorics2024.org/accepted_papers-en), [ACSAC 22](https://www.acsac.org/archive/), [AsiaCCS 17](https://asiaccs2017.trust-sysec.com/program/distinguished-papers/),  [NDSS 16](https://www.internetsociety.org/blog/2016/02/ndss-2016-grants-distinguished-papers-awards/)). His research work on [Real-time Kernel Protection (RKP)](https://docs.samsungknox.com/admin/fundamentals/whitepaper/core-platform-security/real-time-kernel-protection/) has been deployed on hundreds of millions of devices.
+His research interests are operating system security, container security, and software supply chain security. He has published over 60 research papers at top-tier academic conferences. Dr. Wenbo Shen is a recipient of five distinguished paper awards ([IEEE S&P26](https://sp2026.ieee-security.org/index.html), [ESORICS 24](https://esorics2024.org/accepted_papers-en), [ACSAC 22](https://www.acsac.org/archive/), [AsiaCCS 17](https://asiaccs2017.trust-sysec.com/program/distinguished-papers/),  [NDSS 16](https://www.internetsociety.org/blog/2016/02/ndss-2016-grants-distinguished-papers-awards/)). His research work on [Real-time Kernel Protection (RKP)](https://docs.samsungknox.com/admin/fundamentals/whitepaper/core-platform-security/real-time-kernel-protection/) has been deployed on hundreds of millions of devices.
 
 Research
 ======
 Dr. Wenbo Shen and his research team concentrate on two primary areas. [[Full paper list](/publications)]
 - **Operating System Kernel Security**: 1) performing **OS kernel analysis** to discover and eliminate new attack surfaces and vulnerabilities; 2) utilizing current hardware capabilities to develop innovative **software-based protection strategies** for the kernel; 3) leveraging software-hardware co-design to create **new hardware features** for system and software security.
-  * **S&P 26**: [Demystifying and Exploiting ASLR on NVIDIA GPUs](https://www.computer.org/csdl/proceedings-article/sp/2026/606500b448/2bojw97v8xa)
+  * **S&P 26**: [Demystifying and Exploiting ASLR on NVIDIA GPUs](publications/papers/NVIDIA_ASLR.pdf)
   * **NDSS 26**: [PhantomMap: GPU-Assisted Kernel Exploitation](https://www.ndss-symposium.org/ndss-paper/phantommap-gpu-assisted-kernel-exploitation/)
   * **TDSC 26**: [Beyond Control: Exploring Novel File System Objects for Data-Only Attacks on Linux Systems]()
   * **TDSC 25**: [M1Pecker: A Dynamic Analysis Framework for Pointer Authentication in Apple M1 Chips](https://ieeexplore.ieee.org/document/11248954)
@@ -58,6 +58,7 @@ Background
 
 Awards
 ======
+- Distinguished Paper Award by 47th IEEE Symposium on Security and Privacy (IEEE S&P), 2026
 - Distinguished Paper Award by European Symposium on Research in Computer Security (ESORICS), 2024 (1/535)
 - Distinguished Paper Award by Annual Computer Security Applications Conference (ACSAC), 2022, (3/303)
 - Distinguished Paper Award by ACM Asia Conference on Computer and Communications Security (ASIACCS), ACM SIGSAC, 2017
