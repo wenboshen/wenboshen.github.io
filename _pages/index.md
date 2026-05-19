@@ -13,7 +13,7 @@ Research
 ======
 Dr. Wenbo Shen and his research team concentrate on two primary areas. [[Full paper list](/publications)]
 - **Operating System Kernel Security**: 1) performing **OS kernel analysis** to discover and eliminate new attack surfaces and vulnerabilities; 2) utilizing current hardware capabilities to develop innovative **software-based protection strategies** for the kernel; 3) leveraging software-hardware co-design to create **new hardware features** for system and software security.
-  * **S&P 26** <span style="color:blue">**[Distinguished Paper Award)]**</span>: [Demystifying and Exploiting ASLR on NVIDIA GPUs](publications/papers/NVIDIA_ASLR.pdf)
+  * **S&P 26** <span style="color:blue">**[Distinguished Paper Award]**</span>: [Demystifying and Exploiting ASLR on NVIDIA GPUs](publications/papers/NVIDIA_ASLR.pdf)
   * **NDSS 26**: [PhantomMap: GPU-Assisted Kernel Exploitation](https://www.ndss-symposium.org/ndss-paper/phantommap-gpu-assisted-kernel-exploitation/)
   * **TDSC 26**: [Beyond Control: Exploring Novel File System Objects for Data-Only Attacks on Linux Systems]()
   * **TDSC 25**: [M1Pecker: A Dynamic Analysis Framework for Pointer Authentication in Apple M1 Chips](https://ieeexplore.ieee.org/document/11248954)
