@@ -11,7 +11,7 @@ classes: wide
 =====
    * Demystifying and Exploiting ASLR on NVIDIA GPUs  
    Ruofan Zhu, Ganhao Chen, **Wenbo Shen**, Lyuye Zhang, Dakun Shen, Rui Chang, Yanan Guo  
-   IEEE Symposium on Security and Privacy 26 [[PDF]](ublications/papers/NVIDIA_ASLR.pdf) <span style="color:blue">**Distinguished Paper Award \(1/535\)**</span>   
+   IEEE Symposium on Security and Privacy 26 [[PDF]](ublications/papers/NVIDIA_ASLR.pdf) <span style="color:blue">**Distinguished Paper Award**</span>   
 
    * PhantomMap: GPU-Assisted Kernel Exploitation  
    Jiayi Hu, Qi Tang, Xingkai Wang, Jinmeng Zhou, Rui Chang, **Wenbo Shen**  
