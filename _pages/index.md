@@ -12,7 +12,7 @@ His research interests are operating system security, container security, and so
 Research
 ======
 Dr. Wenbo Shen and his research team concentrate on two primary areas. [[Full paper list](/publications)]
-- **Operating System and AI Infra Security**: 1) performing **OS kernel analysis** to discover and eliminate new attack surfaces and vulnerabilities; 2) utilizing current hardware capabilities to develop innovative **software-based protection strategies** for the kernel; 3) leveraging software-hardware co-design to create **new hardware features** for kernel security.
+- **Operating System and AI Infra Security**. Our research focuses on securing the software and hardware foundations of modern AI systems, including: 1) designing novel hardware security primitives; 2) developing operating-system kernel isolation mechanisms and security analysis tools; 3) reverse-engineering GPU and NPU architectures; and 4) fuzzing large language model inference frameworks to uncover vulnerabilities.
   * **S&P 26** <span style="color:blue">**[Distinguished Paper Award]**</span>: [Demystifying and Exploiting ASLR on NVIDIA GPUs](publications/papers/NVIDIA_ASLR.pdf)
   * **NDSS 26**: [PhantomMap: GPU-Assisted Kernel Exploitation](https://www.ndss-symposium.org/ndss-paper/phantommap-gpu-assisted-kernel-exploitation/)
   * **TDSC 26**: [Beyond Control: Exploring Novel File System Objects for Data-Only Attacks on Linux Systems]()
@@ -39,7 +39,7 @@ Dr. Wenbo Shen and his research team concentrate on two primary areas. [[Full pa
   * **ACM CCS 25**: [Dangers Behind Access Control: Understanding and Exploiting Implicit Permissions in Kubernetes](https://dl.acm.org/doi/10.1145/3719027.3765106)
   * **TSE 25**: [Demystifying Rust Unstable Features at Ecosystem Scale: Evolution, Propagation, and Mitigation](https://ieeexplore.ieee.org/document/10919478)
   * **ICSE 25**: [Understanding and Detecting Peer Dependency Resolving Loop in npm Ecosystem](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a591/251mFG6W2ic)
-  * **S&P 25**: [My Model is Malware to You: Transforming AI Models into Malware by Abusing TensorFlow APIs](papers/AIModelAttack.pdf)
+  * **S&P 25**: [My Model is Malware to You: Transforming AI Models into Malware by Abusing TensorFlow APIs](publications/papers/AIModelAttack.pdf)
   * **TDSC 24**: [Towards Understanding and Defeating Abstract Resource Attacks for Container Platforms](https://ieeexplore.ieee.org/document/10537099)
   * **ICSE 24**: [ModuleGuard: Understanding and Detecting Module Conflicts in Python Ecosystem](https://dl.acm.org/doi/abs/10.1145/3597503.3639221)
   * **ICSE 24**: [Demystifying Compiler Unstable Feature Usage and Impacts in the Rust Ecosystem](https://dl.acm.org/doi/abs/10.1145/3597503.3623352)
