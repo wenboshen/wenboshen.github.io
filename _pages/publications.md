@@ -9,6 +9,10 @@ classes: wide
 
 2026
 =====
+   * Untangling Intricate Dependencies: Characterizing and Resolving Software Package Dependencies  
+   Xingyu Wang, Wenbo Shen, Rui Chang, Chengwei Liu, Yang Liu  
+   Transactions on Software Engineering (TSE) [[PDF]]()
+
    * Demystifying and Exploiting ASLR on NVIDIA GPUs  
    Ruofan Zhu, Ganhao Chen, **Wenbo Shen**, Lyuye Zhang, Dakun Shen, Rui Chang, Yanan Guo  
    IEEE Symposium on Security and Privacy 26 [[PDF]](papers/NVIDIA_ASLR.pdf) <span style="color:blue">**Distinguished Paper Award**</span>   
@@ -71,7 +75,7 @@ classes: wide
 
    * My Model is Malware to You: Transforming AI Models into Malware by Abusing TensorFlow APIs  
    Ruofan Zhu, Ganhao Chen, **Wenbo Shen**, Xiaofei Xie, Rui Chang  
-   IEEE Symposium on Security and Privacy 25 [[PDF]](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a012/21B7Q4kpO7e)
+   IEEE Symposium on Security and Privacy 25 [[PDF]](papers/AIModelAttack.pdf)
 
 2024
 =====

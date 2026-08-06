@@ -12,7 +12,7 @@ His research interests are operating system security, container security, and so
 Research
 ======
 Dr. Wenbo Shen and his research team concentrate on two primary areas. [[Full paper list](/publications)]
-- **Operating System Kernel Security**: 1) performing **OS kernel analysis** to discover and eliminate new attack surfaces and vulnerabilities; 2) utilizing current hardware capabilities to develop innovative **software-based protection strategies** for the kernel; 3) leveraging software-hardware co-design to create **new hardware features** for system and software security.
+- **Operating System and AI Infra Security**: 1) performing **OS kernel analysis** to discover and eliminate new attack surfaces and vulnerabilities; 2) utilizing current hardware capabilities to develop innovative **software-based protection strategies** for the kernel; 3) leveraging software-hardware co-design to create **new hardware features** for kernel security.
   * **S&P 26** <span style="color:blue">**[Distinguished Paper Award]**</span>: [Demystifying and Exploiting ASLR on NVIDIA GPUs](publications/papers/NVIDIA_ASLR.pdf)
   * **NDSS 26**: [PhantomMap: GPU-Assisted Kernel Exploitation](https://www.ndss-symposium.org/ndss-paper/phantommap-gpu-assisted-kernel-exploitation/)
   * **TDSC 26**: [Beyond Control: Exploring Novel File System Objects for Data-Only Attacks on Linux Systems]()
@@ -34,11 +34,12 @@ Dr. Wenbo Shen and his research team concentrate on two primary areas. [[Full pa
    * **ACM CCS 14**: [Hypervision Across Worlds: Real-time Kernel Protection from the ARM TrustZone Secure World](publications/papers/tz-rkp-ccs14.pdf)
 
 
-- **Container and Software Security**: 1) conducting both static and dynamic analysis to enhance the **security of container and cloud-native systems**; 2) analyzing and securing software dependencies and programming language features to improve **software supply chain security**.
+- **Agent, Container and Software Security**: 1) conducting both static and dynamic analysis to enhance the **security of AI agent, container and cloud-native systems**; 2) analyzing and securing software dependencies and programming language features to improve **software supply chain security**.
+  * **TSE 26**: [Untangling Intricate Dependencies: Characterizing and Resolving Software Package Dependencies]()
   * **ACM CCS 25**: [Dangers Behind Access Control: Understanding and Exploiting Implicit Permissions in Kubernetes](https://dl.acm.org/doi/10.1145/3719027.3765106)
   * **TSE 25**: [Demystifying Rust Unstable Features at Ecosystem Scale: Evolution, Propagation, and Mitigation](https://ieeexplore.ieee.org/document/10919478)
   * **ICSE 25**: [Understanding and Detecting Peer Dependency Resolving Loop in npm Ecosystem](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a591/251mFG6W2ic)
-  * **S&P 25**: [My Model is Malware to You: Transforming AI Models into Malware by Abusing TensorFlow APIs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a012/21B7Q4kpO7e)
+  * **S&P 25**: [My Model is Malware to You: Transforming AI Models into Malware by Abusing TensorFlow APIs](papers/AIModelAttack.pdf)
   * **TDSC 24**: [Towards Understanding and Defeating Abstract Resource Attacks for Container Platforms](https://ieeexplore.ieee.org/document/10537099)
   * **ICSE 24**: [ModuleGuard: Understanding and Detecting Module Conflicts in Python Ecosystem](https://dl.acm.org/doi/abs/10.1145/3597503.3639221)
   * **ICSE 24**: [Demystifying Compiler Unstable Feature Usage and Impacts in the Rust Ecosystem](https://dl.acm.org/doi/abs/10.1145/3597503.3623352)
