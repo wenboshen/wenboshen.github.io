@@ -60,7 +60,7 @@ Background
 Awards
 ======
 - Distinguished Paper Award by 47th IEEE Symposium on Security and Privacy (IEEE S&P), 2026
-- Distinguished Paper Award by European Symposium on Research in Computer Security (ESORICS), 2024 (1/535)
-- Distinguished Paper Award by Annual Computer Security Applications Conference (ACSAC), 2022, (3/303)
+- Distinguished Paper Award by European Symposium on Research in Computer Security (ESORICS, 1/535), 2024
+- Distinguished Paper Award by Annual Computer Security Applications Conference (ACSAC, 3/303), 2022
 - Distinguished Paper Award by ACM Asia Conference on Computer and Communications Security (ASIACCS), ACM SIGSAC, 2017
 - Distinguished Paper Award by Network and Distributed System Security Symposium (NDSS), 2016
