@@ -12,7 +12,7 @@ His research interests are operating system security, container security, and so
 Research
 ======
 Dr. Wenbo Shen and his research team concentrate on two primary areas. [[Full paper list](/publications)]
-- **Operating System and AI Infra Security**. Our research focuses on securing the software and hardware foundations of modern AI systems, including: 1) designing novel hardware security primitives; 2) developing operating-system kernel isolation mechanisms and security analysis tools; 3) reverse-engineering GPU and NPU architectures; and 4) fuzzing large language model inference frameworks to uncover vulnerabilities.
+- **AI Infra and Operating System Security**. Our research focuses on securing the software and hardware foundations of modern AI systems, including: 1) designing novel **hardware security primitives**; 2) developing **operating system kernel** isolation mechanisms and security analysis tools; 3) reverse-engineering **GPU and NPU architectures**; and 4) fuzzing **LLM inference frameworks** to uncover vulnerabilities.
   * **S&P 26** <span style="color:blue">**[Distinguished Paper Award]**</span>: [Demystifying and Exploiting ASLR on NVIDIA GPUs](publications/papers/NVIDIA_ASLR.pdf)
   * **NDSS 26**: [PhantomMap: GPU-Assisted Kernel Exploitation](https://www.ndss-symposium.org/ndss-paper/phantommap-gpu-assisted-kernel-exploitation/)
   * **TDSC 26**: [Beyond Control: Exploring Novel File System Objects for Data-Only Attacks on Linux Systems]()
@@ -34,7 +34,7 @@ Dr. Wenbo Shen and his research team concentrate on two primary areas. [[Full pa
    * **ACM CCS 14**: [Hypervision Across Worlds: Real-time Kernel Protection from the ARM TrustZone Secure World](publications/papers/tz-rkp-ccs14.pdf)
 
 
-- **Agent and Container Security**: 1) conducting both static and dynamic analysis to enhance the security of AI agent, container and cloud-native systems; 2) analyzing and securing software dependencies to improve software supply chain security.
+- **Agent and Container Security**: 1) conducting both static and dynamic analysis to enhance the security of **AI agent**, **container and cloud-native systems**; 2) analyzing and securing software dependencies to improve **software supply chain security**.
   * **TSE 26**: [Untangling Intricate Dependencies: Characterizing and Resolving Software Package Dependencies]()
   * **ACM CCS 25**: [Dangers Behind Access Control: Understanding and Exploiting Implicit Permissions in Kubernetes](https://dl.acm.org/doi/10.1145/3719027.3765106)
   * **TSE 25**: [Demystifying Rust Unstable Features at Ecosystem Scale: Evolution, Propagation, and Mitigation](https://ieeexplore.ieee.org/document/10919478)
